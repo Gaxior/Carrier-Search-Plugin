@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 300px; /* Default window width */
+            min-width: 200px;
+            padding: 10px;
+        }
+        input {
+            width: 90%;
+            padding: 10px;
+            margin: 5px 0;
+            font-size: 14px;
+        }
+        #result {
+            margin-top: 10px;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        p {
+            word-wrap: break-word;
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <h3>Carrier module search</h3>
+    <input type="text" id="nameInput" placeholder="DHL-11, 1011, DHL Express International" />
+    <div id="result"></div>
+
+    <script src="popup.js"></script>
+</body>
+</html>

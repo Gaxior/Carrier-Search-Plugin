@@ -1,0 +1,690 @@
+Carrier code,Carrier integration code,Carrier integration name,CR's,DM id,DM status,Last release date,MPM id,MPM status,Last release date,Status
+"DELHIVERY","DEL01","Delhivery",0,"","not available","","DEL-01","active",2018-01-18 00:00:00.0,Released
+"DHL_BD","DHL46","DHL Blue Dart",0,"","not available","","DHL-46","active",2018-02-19 00:00:00.0,Released
+"DPD_UK","DPD09","DPD Mail International",0,"","not available","","DPD-09","active",1990-01-01 10:03:09.0,Released
+"JLP_MULTI_PURP","JL02","JL Multi Purpose",0,"","not available","","JL-02","active",2016-06-27 00:00:00.0,Released
+"RM","RM03","Royal Mail Domestic and International",0,"","not available","","RM-03","deprecated",2025-01-13 14:13:19.0,Released
+"JLP_C_AND_C","JL01","JL Click and Collect",0,"","not available","","JL-01","active",1990-01-01 10:03:09.0,Released
+"CLIPPER","CL01","Clipper",0,"","not available","","CL-01","active",1990-01-01 10:03:09.0,Released
+"HER_HES","HES01","Hes",0,"","not available","","HES-01","deprecated",2018-02-13 00:00:00.0,Released
+"RHENUS","RL02","Rhenus Logistics",0,"","not available","","RL-02","active",1990-01-01 10:03:10.0,Released
+"MP_GEN","G01","Genereller Speditionsversand",0,"","not available","","G-01","active",1990-01-01 10:03:10.0,Released
+"DE_POST","DP02","Deutsche Post Brief National",0,"","not available","","DP-02","deprecated",1990-01-01 10:03:11.0,Released
+"YODEL","HDNL01","YODEL - Home Delivery Network (HDNL)",0,"","not available","","HDNL-01","deprecated",2018-04-11 00:00:00.0,Released
+"NIGHTLINE","NL01","Nightline",0,"","not available","","NL-01","deprecated",1990-01-01 10:03:11.0,Released
+"WHISTL","WH01","WhistlInsight",0,"","not available","","WH-01","active",1990-01-01 10:03:11.0,Released
+"HER_DE","H02","Hermes Versand",0,"","not available","","H-02","active",2018-03-05 00:00:00.0,Released
+"COLISSIMO","LP03","La Poste ColiPoste SO Colissimo",0,"","not available","","LP-03","deprecated",2021-12-16 00:00:00.0,Released
+"DHL_EXP","DHL19","DHL Italy",0,"","not available","","DHL-19","active",1990-01-01 10:03:15.0,Released
+"HANJIN","HAN01","Hanjin",0,"","not available","","HAN-01","active",1990-01-01 10:03:15.0,Released
+"WND","WND01","Generic Asendia (WN)",0,"","not available","","WND-01","active",1990-01-01 10:03:15.0,Released
+"SG_POST","SGP01","Singapore Post",0,"","not available","","SGP-01","deprecated",1990-01-01 10:03:15.0,Released
+"ARAMEX","AR01","Aramex",0,"","not available","","AR-01","deprecated",1990-01-01 10:03:15.0,Released
+"DM_CON","DM001","Delivery Manager",0,"","not available","","DM-001","active",1990-01-01 10:03:16.0,Released
+"MP_GEN","G02","Genereller Speditionsversand (Bordero EDI)",0,"","not available","","G-02","deprecated",1990-01-01 10:03:16.0,Released
+"CZ_POST","CP01","Ceska Posta",0,"","not available","","CP-01","active",1990-01-01 10:03:16.0,Released
+"PL_POST","PL01","Poczta Polska",0,"","not available","","PL-01","deprecated",1990-01-01 10:03:16.0,Released
+"DPD_EUR","DPD04","DPD Polska Distribution",0,"","not available","","DPD-04","active",2017-01-23 00:00:00.0,Released
+"DHL_PAK","DHL21","DHL Weltpaket",0,"","not available","","DHL-21","active",2019-06-21 00:00:00.0,Released
+"COLISSIMO","LP02","La Poste COLISSIMO OM",0,"","not available","","LP-02","deprecated",1990-01-01 10:03:17.0,Released
+"DHL_PAK","DHL35","DHL Amsel Retoure",0,"","not available","","DHL-35","deprecated",1990-01-01 10:03:17.0,Released
+"GLS","ASM01","GLS Spain",0,"","not available","","ASM-01","active",2018-03-23 00:00:00.0,Released
+"DHL_PAK","DHL16","DHL Paket (GK) Prod. Abrechnung",0,"","not available","","DHL-16","deprecated",1990-01-01 10:03:17.0,Released
+"MOND_REL","MR01","Mondial Relay (Obsolete)",0,"","not available","","MR-01","deprecated",1990-01-01 00:00:00.0,Released
+"IDS","IDS02","IDS Logistik",0,"","not available","","IDS-02","active",1990-01-01 10:03:18.0,Released
+"DE_POST","DP01","Deutsche Post Brief International",0,"","not available","","DP-01","deprecated",1990-01-01 10:03:18.0,Released
+"POST_AT","PAT03","Österreichische Post AG - Paket Premium Österreich",0,"","not available","","PAT-03","active",1990-01-01 10:03:18.0,Released
+"DHL_EXP","DHL12","DHL Express National",0,"","not available","","DHL-12","deprecated",1990-01-01 10:03:18.0,Released
+"HER_DE","H07","Hermes European Routing Service",0,"","not available","","H-07","deprecated",2014-07-24 00:00:00.0,Released
+"HER_AT","H06","Hermes AT",0,"","not available","","H-06","active",1990-01-01 10:03:18.0,Released
+"DHL_FRG","DHL27","DHL Freight",0,"","not available","","DHL-27","active",2018-12-07 00:00:00.0,Released
+"LOGWIN","LW01","Logwin",0,"","not available","","LW-01","active",1990-01-01 10:03:18.0,Released
+"DHL_PAK","DHL20","DHL Zweimannhandling",0,"","not available","","DHL-20","deprecated",1990-01-01 10:03:18.0,Released
+"PSK","PSK01","PSK - Post Speditions Kompanie",0,"","not available","","PSK-01","active",2017-06-22 00:00:00.0,Released
+"DHL_ECOMM","DHL26","Parcel4U",0,"","not available","","DHL-26","active",1990-01-01 10:03:18.0,Released
+"TOF","TOF02","trans-o-flex - Europe",0,"","not available","","TOF-02","active",1990-01-01 10:03:18.0,Released
+"EMAKERS","EM01","Emakers",0,"","not available","","EM-01","active",2016-09-20 00:00:00.0,Released
+"DHL_PAK","DHL38","DHL Kurier",0,"","not available","","DHL-38","deprecated",1990-01-01 10:03:18.0,Released
+"RHENUS","RL01","Rhenus PL",0,"","not available","","RL-01","deprecated",2016-09-19 00:00:00.0,Released
+"COLISSIMO","LP04","La Poste Colissimo International",0,"","not available","","LP-04","deprecated",2017-11-05 00:00:00.0,Released
+"LA_POSTE_LET","LP05","La Poste Lettre",0,"","not available","","LP-05","active",1990-01-01 10:03:19.0,Released
+"AU_AIR_EX","AAE01","AustralianAirExpress",0,"","not available","","AAE-01","deprecated",1990-01-01 10:03:19.0,Released
+"HAFELE_OF","HAA01","SpeditionHAA",0,"","not available","","HAA-01","active",1990-01-01 10:03:19.0,Released
+"AU_POST","STE01","Star Track Express",0,"","not available","","STE-01","active",1990-01-01 10:03:19.0,Released
+"TOLL","TEXP01","Toll Express",0,"","not available","","TEXP-01","deprecated",1990-01-01 10:03:19.0,Released
+"TOLL","TNQX01","Toll NQX",0,"","not available","","TNQX-01","deprecated",1990-01-01 10:03:19.0,Released
+"TOLL","TTS01","Toll Tasmania",0,"","not available","","TTS-01","deprecated",1990-01-01 10:03:19.0,Released
+"WILDENHOFER","WILD01","SpeditionWildenhofer",0,"","not available","","WILD-01","active",1990-01-01 10:03:19.0,Released
+"HAFELE_OF","GHDE","Generic Logistic Provider Module (Hafele)",0,"","not available","","G-HDE","active",1990-01-01 10:03:19.0,Released
+"FREJA","FR01","Freja",0,"","not available","","FR-01","deprecated",1990-01-01 10:03:19.0,Released
+"DB_SCH","SCH03","DB Schenker - Joyau",0,"","not available","","SCH-03","active",1990-01-01 10:03:19.0,Released
+"DHL_EXP","DHL17","DHL Polska",0,"","not available","","DHL-17","deprecated",2018-10-17 00:00:00.0,Released
+"RABEN","RA01","Raben Polska",0,"","not available","","RA-01","active",1990-01-01 10:03:19.0,Released
+"DHL_EXP","DHL34","DHL Express Spain - Economy Select",0,"","not available","","DHL-34","deprecated",1990-01-01 10:03:19.0,Released
+"KIALA","K01","Kiala Benelux",0,"","not available","","K-01","deprecated",1990-01-01 10:03:19.0,Released
+"HER_HES","H05","Hermes Einrichtungsservice",0,"","not available","","H-05","deprecated",1990-01-01 10:03:19.0,Released
+"KIALA","K02","Kiala FR",0,"","not available","","K-02","deprecated",1990-01-01 10:03:19.0,Released
+"KIALA","K04","Kiala ES",0,"","not available","","K-04","deprecated",1990-01-01 10:03:20.0,Released
+"POCZTEX","PL02","Pocztex - Poczta Polska Courier Service",0,"","not available","","PL-02","deprecated",1990-01-01 10:03:20.0,Released
+"POSTNORD","PSE01","Posten Sweden",0,"","not available","","PSE-01","deprecated",2018-10-23 00:00:00.0,Released
+"PSK","PEK01","PEK - Post Speditions Kompanie",0,"","not available","","PEK-01","deprecated",1990-01-01 10:03:20.0,Released
+"TNT_EX","TNT02","TNT Express Germany",0,"","not available","","TNT-02","active",1990-01-01 10:03:20.0,Released
+"DB_SCH","SCH02","Spedition DB Schenker Germany",0,"","not available","","SCH-02","active",1990-01-01 10:03:20.0,Released
+"PUR","PR01","Purolator",1,"","not available","","PR-01","active",2018-03-27 00:00:00.0,Released
+"HEPPNER","HEPP01","Spedition Heppner",0,"","not available","","HEPP-01","active",1990-01-01 10:03:20.0,Released
+"ATS","ATS01","ATS Healthcare",0,"","not available","","ATS-01","active",2014-10-27 00:00:00.0,Released
+"DPD_FR","EX02","DPD France",0,"","not available","","EX-02","active",2018-10-18 00:00:00.0,Released
+"INTEGRA2","INT01","Integra2",0,"","not available","","INT-01","active",1990-01-01 10:03:20.0,Released
+"POST_AT","PAT04","Österreichische Post AG - Paket Premium International",0,"","not available","","PAT-04","active",1990-01-01 10:03:20.0,Released
+"ANDREANI","AN01","Andreani",0,"","not available","","AN-01","active",1990-01-01 10:03:20.0,Released
+"CALBERSON","CA01","Calberson",0,"","not available","","CA-01","deprecated",1990-01-01 10:03:20.0,Released
+"SOUTO","SO01","Souto",0,"","not available","","SO-01","deprecated",1990-01-01 10:03:20.0,Released
+"MIDLAND_COUR","MD01","Midland Courier",0,"","not available","","MD-01","active",2016-05-13 00:00:00.0,Released
+"DHL_PAK","DHL44","DHL Paket Austria",0,"","not available","","DHL-44","deprecated",2017-01-02 00:00:00.0,Released
+"POSTNORD","PSE02","Posten Sweden Varubrev",0,"","not available","","PSE-02","deprecated",2018-10-23 00:00:00.0,Released
+"SWIPBOX","SB01","SwipBox Denmark",0,"","not available","","SB-01","active",1990-01-01 10:03:20.0,Released
+"CORREOS","C03","Correos Mail",0,"","not available","","C-03","deprecated",1990-01-01 10:03:20.0,Released
+"CTT_COR_MAIL","CTT01","CTT Correios",0,"","not available","","CTT-01","deprecated",1990-01-01 10:03:21.0,Released
+"POST_AT","PAT05","Österreichische Post AG - EMS Inland",0,"","not available","","PAT-05","active",1990-01-01 10:03:21.0,Released
+"ZELERIS","ZEL01","Zeleris",0,"","not available","","ZEL-01","active",2018-05-24 00:00:00.0,Released
+"DE_POST","DP03","Deutsche Post C2C",0,"","not available","","DP-03","deprecated",2018-05-18 00:00:00.0,Released
+"LIEFERY","LF01","Liefery",1,"394","deleted",1990-01-01 00:02:56.0,"LF-01","deprecated",2018-02-28 00:00:00.0,Released
+"ZUST","ZUS01","Zust Ambrosetti",0,"","not available","","ZUS-01","active",2018-06-29 00:00:00.0,Released
+"AGEDISS","A01","Agediss",0,"","not available","","A-01","active",2019-04-30 00:00:00.0,Released
+"DX","DXF02","DX Freight 2man Handling",0,"","not available","","DXF-02","active",2017-08-01 00:00:00.0,Released
+"AB_CUS","AB01","AB Custom",0,"","not available","","AB-01","deprecated",2017-04-24 00:00:00.0,Released
+"SDA","SMM02","SDA Express Courier",0,"","not available","","SMM-02","active",2019-05-30 18:16:15.0,Released
+"DPD_EUR","DPD02","DPD Polska",0,"","not available","","DPD-02","deprecated",2018-06-15 00:00:00.0,Released
+"DB_SCH","SCH01","DB Schenker",0,"","not available","","SCH-01","active",2019-05-30 18:16:16.0,Released
+"ADICIONAL","AD01","Adicional",0,"","not available","","AD-01","deprecated",2021-04-13 10:23:49.0,Released
+"MORAWA","MO01","AT Buchversand Morawa",0,"","not available","","MO-01","deprecated",2018-06-08 00:00:00.0,Released
+"KIALA","K03","Kiala Austria",0,"","not available","","K-03","deprecated",2022-05-30 00:00:00.0,Released
+"USPS","USPS01","USPS Best Way Parcel",0,"","not available","","USPS-01","deprecated",2012-08-12 00:00:00.0,Released
+"PIN_AG","PN01","PIN AG",0,"","not available","","PN-01","deprecated",2018-06-12 00:00:00.0,Released
+"DHL_EXP","DHL31","DHL Express Austria",0,"","not available","","DHL-31","deprecated",2017-11-18 00:00:00.0,Released
+"DHL_GM","DHL36","DHL GM Mail",0,"","not available","","DHL-36","active",2021-04-05 17:35:28.0,Released
+"CORREOS","C01","Correos",0,"","not available","","C-01","active",2019-05-30 18:16:18.0,Released
+"DSV","DSV01","DSV",0,"","not available","","DSV-01","active",2022-05-30 00:00:00.0,Released
+"KNV","KNV01","AT Bücherwagendienst KNV",0,"","not available","","KNV-01","deprecated",2016-09-19 00:00:00.0,Released
+"PGV","PGV01","Buchversand Valora-PGV",0,"","not available","","PGV-01","deprecated",2016-09-19 00:00:00.0,Released
+"POST_AT","PAT10","Österreichische Post AG-Brief",0,"","not available","","PAT-10","deprecated",2018-06-08 00:00:00.0,Released
+"CARGO","CG01","Cargo",0,"","not available","","CG-01","active",2016-09-19 00:00:00.0,Released
+"EUR_SPRINTERS","ES01","EuroSprinters",0,"","not available","","ES-01","deprecated",2018-05-22 00:00:00.0,Released
+"EV_BUS_OF","EV01","EvoBus Generic",0,"","not available","","EV-01","active",2018-05-21 12:39:23.0,Released
+"CH_POST","CH04","CH Post 2 Man",0,"","not available","","CH-04","active",2016-05-09 00:00:00.0,Released
+"DHL_PAR_UK","UKM02","DHL Parcel UK – Retail Today",0,"","not available","","UKM-02","deprecated",2017-05-24 00:00:00.0,Released
+"","","UPS US 2",0,"","not available","","UPS-03","deprecated",2018-01-31 00:00:00.0,Released
+"DHL_EXP","DHL45","DHL Express Netherlands",0,"","not available","","DHL-45","deprecated",2017-12-18 00:00:00.0,Released
+"WND","WNC01","wnCollect (WnDirect)",0,"","not available","","WNC-01","active",2016-10-12 00:00:00.0,Released
+"UPS","UPS02","UPS US",0,"","not available","","UPS-02","deprecated",2022-05-30 00:00:00.0,Released
+"","","DHL eCommerce",0,"","not available","","DHL-47","deprecated",2017-12-04 00:00:00.0,Released
+"NEWGISTICS","NEW01","Newgistics",0,"","not available","","NEW-01","deprecated",2018-12-13 00:00:00.0,Released
+"YODEL","DHL03","DHL UK (arch)",0,"","not available","","DHL-03","deprecated",2014-06-01 00:00:00.0,Released
+"DHL_EXP","DHL18","DHL Express Switzerland",0,"","not available","","DHL-18","deprecated",2014-07-10 00:00:00.0,Released
+"DHL_PAK","DHL22","DHL Austria",0,"","not available","","DHL-22","deprecated",2013-10-04 00:00:00.0,Released
+"SM_MAIL","SMM01","San Marino Mail",0,"","not available","","SMM-01","deprecated",2013-04-04 00:00:00.0,Released
+"TNT_EX","TNT08","TNT Express Spain",0,"","not available","","TNT-08","deprecated",2012-04-04 00:00:00.0,Released
+"TNT_EX","TNT09","TNT France International",0,"","not available","","TNT-09","deprecated",2013-04-04 00:00:00.0,Released
+"NEXIVE","NEV01","Nexive",0,"","not available","","NEV-01","deprecated",2018-06-21 00:00:00.0,Released
+"BUBBLE_POST","BUP01","Bubble Post",0,"","not available","","BUP-01","deprecated",2017-02-13 00:00:00.0,Released
+"COLISSIMO","LP01","La Poste COLISSIMO F",0,"","not available","","LP-01","deprecated",1990-01-01 10:03:13.0,Released
+"CN_POST","BEP01","Beijing Post",0,"","not available","","BEP-01","active",2018-08-24 00:00:00.0,Released
+"51PAR","51P01","51 Parcel",0,"","not available","","51P-01","active",2018-08-24 00:00:00.0,Released
+"ADD_LEE","ADL01","Addison Lee",0,"","not available","","ADL-01","active",2018-02-16 00:00:00.0,Released
+"YURTICI","YK01","Yurtici Kargo",0,"","not available","","YK-01","active",2018-08-24 00:00:00.0,Released
+"FEDEX","F02","FedEx France",0,"","not available","","F-02","active",2017-10-06 00:00:00.0,Released
+"KARIBOO","KAR01","Kariboo!",0,"","not available","","KAR-01","deprecated",2018-01-24 00:00:00.0,Released
+"EST","EST01","Estafeta",0,"","not available","","EST-01","active",2018-10-11 00:00:00.0,Released
+"KOIKI","KOI01","Koiki Home",0,"","not available","","KOI-01","deprecated",2018-09-11 00:00:00.0,Released
+"PONY_EX","PO01","Pony Express",0,"","not available","","PO-01","deprecated",2018-09-11 00:00:00.0,Released
+"TNT_EX","TNT03","TNT Express Italy",0,"","not available","","TNT-03","deprecated",2018-09-17 00:00:00.0,Released
+"TIRAMIZOO","TI01","Tiramizoo",0,"","not available","","TI-01","deprecated",2018-09-18 00:00:00.0,Released
+"SERNAM","SE01","Sernam",0,"","not available","","SE-01","deprecated",2018-09-20 00:00:00.0,Released
+"IA_CON","GCP01","Global Carrier Platform",0,"","not available","","GCP-01","active",2018-09-27 00:00:00.0,Released
+"ITALMONDO","IM01","Italmondo",0,"","not available","","IM-01","active",2018-10-03 00:00:00.0,Open
+"HM_OF","HM01","H&M Own fleet",0,"","not available","","HM-01","active",2018-10-25 00:00:00.0,Released
+"DHL_ECOMM","DHL43","DHL Weltpaket Direct China",0,"","not available","","DHL-43","deprecated",2018-10-18 00:00:00.0,Released
+"INPOST_FR","IP03","InPost FR",0,"","not available","","IP-03","deprecated",2018-10-19 00:00:00.0,Released
+"VIR","VIR01","VIR Distribution",0,"","not available","","VIR-01","active",2018-10-19 00:00:00.0,Released
+"EURODIS","EU01","Eurodis",0,"","not available","","EU-01","deprecated",2018-10-29 00:00:00.0,Released
+"PL_POST","DHLPL01","DHL Consumer Pack International Poland/Poczta Polska",0,"","not available","","DHLPL-01","deprecated",2018-10-30 00:00:00.0,Released
+"YAMATO","YAM01","Yamato Japan",1,"","not available","","YAM-01","active",2018-11-05 00:00:00.0,Released
+"","","APC",0,"","not available","","DM-019","deprecated",2016-11-16 00:00:00.0,Released
+"YODEL","DHL","Yodel-Not In Use",0,"1","deprecated",2019-04-26 09:35:44.0,"","not available","",Released
+"YODEL","HDN","Yodel Home",0,"2","active",2023-12-06 10:13:25.0,"","not available","",Released
+"PARCELFORCE","PLFCW","Parcelforce Worldwide",0,"3","active",2025-03-10 09:08:40.0,"DM-038","deprecated",2025-03-10 09:08:40.0,Released
+"PARCELFORCE","PLFCWI","Parcelforce  Worldwide (International)",0,"4","active",2019-04-26 09:35:53.0,"DM-037","deprecated",2018-11-17 10:11:07.0,Released
+"RM","ROYALMAIL","Royal Mail",0,"5","deprecated",2025-03-12 18:11:48.0,"DM-039","deprecated",2025-03-12 18:11:48.0,Released
+"DX","NF1MAN","DX 1 Man",0,"6","active",2024-02-05 13:59:11.0,"DM-028","deprecated",2024-02-05 13:59:11.0,Released
+"DX","NF2MAN","DX 2-Man",0,"7","active",2023-05-16 09:34:50.0,"","not available","",Released
+"HER_UK","PARCELNET","Hermes NRF",1,"11","deleted",2019-04-26 09:36:10.0,"","not available","",Released
+"DHL_EXP","DHLINT","DHL Time Definite",0,"12","active",2025-02-18 14:11:36.0,"","not available","",Released
+"BDPX","BDPX","BDPX",0,"14","deprecated",2019-04-26 00:00:00.0,"","not available","",Released
+"DHL_PAR_UK","BUSINESSPOST","DHL Parcel UK",0,"15","active",2025-02-12 09:50:15.0,"DM-033","deprecated",2025-02-12 09:50:15.0,Released
+"FEDEX","ANC","FedEx UK Legacy EDI",0,"16","deleted",2019-04-26 09:36:18.0,"","not available","",Released
+"UPS","UPS","UPS",0,"18","deleted",2024-01-18 13:32:54.0,"","not available","",Released
+"FASTWAY_AU","FASTWAY","Fastway",0,"20","active",2019-04-26 09:38:00.0,"","not available","",Released
+"RM","ROYALMAILRECSP","Royal Mail Recorded and Special",1,"22","active",2025-03-13 09:31:51.0,"DM-040","deprecated",2025-03-13 09:31:51.0,Released
+"CITYLINK","CITYLINK","Citylink",0,"26","deprecated",2019-04-26 09:38:10.0,"","not available","",Released
+"DPD_UK","DPD","DPD",0,"29","active",2025-02-04 09:14:46.0,"DM-035","deprecated",2025-02-04 09:14:46.0,Released
+"DPD_LOC","INTERLINK","DPD Local",0,"30","active",2024-10-02 12:04:40.0,"DM-027","deprecated",2024-10-02 12:04:40.0,Released
+"MP_GEN","GENERIC","Generic",1,"31","active",2024-09-26 07:19:25.0,"","not available","",Released
+"TUFF","TUFFNELL","Tuffnell",0,"32","active",2023-03-28 08:49:40.0,"DM-032","deprecated",2018-11-17 10:14:45.0,Released
+"XDP","XDP","XDP",0,"33","active",2023-07-06 11:11:57.0,"DM-034","deprecated",2018-11-17 10:14:46.0,Released
+"TNT_EX","TNT","TNT",0,"34","deprecated",2019-04-26 09:38:30.0,"DM-042","deprecated",2018-11-17 10:14:54.0,Released
+"BYBOX","BYBOX","ByBox",0,"35","deprecated",2019-04-26 09:38:30.0,"","not available","",Released
+"CITYSP_UK","CITYSPRINT","City Sprint",1,"36","deleted",2019-04-26 09:38:30.0,"DM-005","deprecated",2018-10-03 12:29:53.0,Released
+"DHL_EXP","DHLEURO","DHL Day Definite",0,"37","deprecated",2019-04-26 09:38:30.0,"","not available","",Released
+"TNT_EX","TNTDWPHB","TNT DWPHB",0,"38","deprecated",2019-04-26 09:38:30.0,"","not available","",Released
+"TNT_EX","TNTBARCHB","TNTBARCHB",0,"39","deprecated",2019-04-26 09:38:30.0,"","not available","",Released
+"SPRINT_GB","SPRINTGB","Sprint GB",0,"40","deprecated",2019-04-26 09:38:31.0,"","not available","",Released
+"DHL_FRG","DHLFREIGHT","DHL Freight",0,"41","deprecated",2019-04-26 09:38:31.0,"","not available","",Released
+"DPD_UK","DPDMAIL","DPD Mail",0,"42","active",2019-04-26 09:38:32.0,"DM-022","deprecated",2018-10-03 12:30:09.0,Released
+"GLS","PLFCGLS","Parcelforce  GLS (Europe)",0,"43","deprecated",2019-04-26 09:38:32.0,"DM-036","deprecated",2018-11-17 10:14:57.0,Released
+"TNT_EX","TNTFASHION","TNTFASHION",0,"44","deprecated",2019-04-26 09:38:32.0,"","not available","",Released
+"ARROW_XL","HDN2MAN","Arrow XL",0,"46","active",2019-04-26 09:38:32.0,"","not available","",Released
+"CITYLINK","CITYMAIL","Citylink (Mail)",1,"47","deleted",2019-04-26 09:38:39.0,"","not available","",Released
+"NIGHTLINE","NIGHTLINE","Nightline",0,"49","deprecated",2019-04-26 09:38:40.0,"","not available","",Released
+"COLISSIMO","LPS","Coliposte",0,"50","deprecated",2019-04-26 09:38:40.0,"","not available","",Released
+"FEDEX","FEDEX","FedEx Express",0,"52","deleted",2023-02-17 08:25:52.0,"","not available","",Released
+"HER_DE","HLG","Hermes Logistik Gruppe Deutschland (HLG)",1,"54","active",2019-04-26 09:38:46.0,"H-11","active",2021-07-15 00:00:00.0,Released
+"RM","ROYALMAILTRKNOOBA","Royal Mail Tracked non-OBA",1,"55","active",2025-03-12 19:26:50.0,"DM-041","deprecated",2025-03-12 19:26:50.0,Released
+"TNT_EX","TNTEXP","TNT Express",0,"56","active",2024-10-24 10:07:52.0,"","not available","",Released
+"DX","DXS","DX Secure",0,"57","active",2023-06-13 10:09:44.0,"DM-024","deprecated",2018-10-03 12:45:38.0,Released
+"WND","WORLDNETUSA","Asendia (WN) USA",0,"59","active",2024-11-05 13:57:33.0,"","not available","",Released
+"WND","WORLDNETAUS","Asendia (WN) Australia",0,"60","active",2019-04-26 09:39:02.0,"DM-013","deprecated",2018-11-17 10:16:36.0,Released
+"WHISTL","TNTPOSTUK","Whistl",0,"62","active",2024-02-19 14:06:26.0,"","not available","",Released
+"YODEL","YODEL","Yodel B and N",0,"63","deprecated",2019-04-26 09:39:03.0,"DM-043","deprecated",2018-11-17 10:16:40.0,Released
+"DHL_PAK","DHLDEUDOMESTIC","DHL Paket",1,"64","active",2024-01-18 09:17:44.0,"","not available","",Released
+"WND","WORLDNETITA","Asendia (WN) Italy",0,"65","active",2023-12-14 13:29:38.0,"DM-016","deprecated",2023-12-14 13:29:38.0,Released
+"HER_UK","HERMESPOS","Evri",1,"66","active",2024-07-03 09:44:16.0,"H-12","active",2024-07-03 09:44:16.0,Released
+"SKYNET","SKYNET","Skynet",1,"67","active",2025-02-13 11:32:52.0,"","not available","",Released
+"DPD_EUR","DPDBE","DPD Belgium",0,"69","deprecated",2019-04-26 09:40:03.0,"","not available","",Released
+"POSTNL","POSTNL","PostNL",1,"71","deprecated",2019-04-26 09:40:04.0,"","not available","",Released
+"WND","WNINT","Asendia (WN)",0,"74","active",2024-01-15 12:47:14.0,"DM-012","deprecated",2024-01-15 12:47:14.0,Released
+"YODEL","YODELSELECT","Yodel Select",1,"75","deleted",2019-04-26 09:40:06.0,"","not available","",Released
+"GLS","GLSNL","GLS NL",0,"76","deleted",2019-04-26 09:40:06.0,"","not available","",Released
+"DPD_EUR","DPDGER","DPD Germany Legacy",0,"78","deprecated",2019-04-26 09:40:07.0,"","not available","",Released
+"YODEL","YODELWORLD","YODEL World",1,"79","deleted",2019-04-26 09:40:08.0,"","not available","",Released
+"AN_POST","APG","An Post",0,"80","active",2023-11-14 09:41:06.0,"DM-021","active",2023-11-14 09:41:06.0,Released
+"GIST","GISTMS","GIST",0,"81","active",2019-04-26 09:40:11.0,"","not available","",Released
+"DHL_EXP","DHLBEDD","DHL Day Definite - Belgium",0,"82","deprecated",2019-04-26 09:40:11.0,"","not available","",Released
+"DPD_EUR","DPDNLD","DPD Netherlands",0,"83","deprecated",2019-04-26 09:40:13.0,"","not available","",Released
+"GLS","GLSEUROPE","GLS Europe",0,"85","deprecated",2019-04-26 09:40:15.0,"","not available","",Released
+"GLS","GLSSWISSPOSTCH","GLS SwissPost",0,"86","deleted",2019-04-26 09:40:15.0,"","not available","",Released
+"DIRLINK","DIRLINK","Direct Link",0,"88","deprecated",2019-04-26 09:40:15.0,"","not available","",Released
+"FASTWAY_IE","FWI","Fastway Ireland",0,"89","active",2024-12-11 14:05:54.0,"DM-025","deprecated",2024-12-11 14:05:54.0,Released
+"OCS","OCS","OCS",0,"90","active",2024-04-16 12:41:25.0,"DM-029","deprecated",2024-04-16 12:41:25.0,Released
+"DX","DXMM","DX Managed Mail",0,"91","deprecated",2019-04-26 09:40:22.0,"DM-023","deprecated",2018-10-03 13:49:26.0,Released
+"TESC_CEV","TESCOCEVA","Tesco CEVA",0,"92","deprecated",2019-04-26 09:40:22.0,"","not available","",Released
+"DHL_EXP","DHLINTSWE","DHL Time Definite - Sweden",0,"93","deprecated",2019-04-26 09:40:22.0,"","not available","",Released
+"DHL_EXP","DHLINTDNK","DHL Time Definite - Denmark",0,"94","deprecated",2019-04-26 09:40:23.0,"","not available","",Released
+"DHL_EXP","DHLINTDEU","DHL Time Definite - Germany",0,"95","active",2019-04-26 09:40:23.0,"","not available","",Released
+"SEUR","SEUR","SEUR",0,"96","deprecated",2019-04-26 09:40:24.0,"","not available","",Released
+"KIALA","KIALABE","Kiala Belgium",0,"97","deprecated",2019-04-26 09:40:25.0,"","not available","",Released
+"HG_ST_LG","CPX","High Street Logistics",0,"98","deprecated",2019-04-26 09:40:25.0,"","not available","",Released
+"KIALA","KIALAFR","Kiala France",0,"101","deprecated",2019-04-26 09:40:25.0,"","not available","",Released
+"AU_POST","AUSNT","Australia Post",0,"102","deprecated",2019-04-26 09:40:25.0,"DM-003","deprecated",2018-10-03 13:50:20.0,Released
+"DHL_PAR_BNL","SELEKTVRACHT","Selektvracht",0,"103","deprecated",2019-04-26 09:40:26.0,"","not available","",Released
+"HI_WAY","HWE","Hi Way",0,"105","deprecated",2019-04-26 09:40:27.0,"DM-026","deprecated",2018-10-03 13:50:35.0,Released
+"SPRING","SPRINGGM","Spring Global Mail",0,"106","deprecated",2019-04-26 09:40:27.0,"DM-010","deprecated",2018-12-03 00:00:00.0,Released
+"WND","WNDBR","Asendia (WN) Brazil",0,"107","deprecated",2019-04-26 09:40:27.0,"DM-014","deprecated",2018-11-17 10:19:35.0,Released
+"YAMATO","YAMATO","Yamato",0,"108","active",2019-04-26 09:40:27.0,"DM-011","deprecated",2018-10-03 13:50:40.0,Released
+"SPSR","SPSR","SPSR",0,"111","deprecated",2019-04-26 09:40:28.0,"","not available","",Released
+"DHL_GM","DHLGMB","DHL Globalmail Business (GMB)",0,"112","deprecated",2019-04-26 09:40:29.0,"DM-044","deprecated",2018-11-17 10:19:42.0,Released
+"MOND_REL","MONDIALRELAY","Mondial Relay",1,"113","deleted",2019-04-26 09:40:30.0,"","not available","",Released
+"DSV","DSV","DSV",0,"115","deprecated",2019-04-26 09:40:30.0,"","not available","",Released
+"13TN","13TN","13ten",0,"117","active",2019-04-26 09:40:30.0,"DM-020","deprecated",2014-11-14 00:00:00.0,Released
+"HUBEUR","HUBEUROPE","HubEurope",0,"118","deprecated",2019-04-26 09:40:30.0,"","not available","",Released
+"DTDC","DPDIND","DTDC",0,"119","active",2024-01-15 12:35:52.0,"DM-015","deprecated",2024-01-15 12:35:52.0,Released
+"CORREOS","CORREOS","CORREOS",0,"120","deprecated",2019-04-26 09:40:31.0,"","not available","",Released
+"LINEEX_HK","LINEXHKG","Linex Hong Kong",0,"122","deprecated",2019-04-26 09:40:32.0,"","not available","",Released
+"LINEEX_CH","LINEXCHN","Linex China",0,"123","deprecated",2019-04-26 09:40:32.0,"","not available","",Released
+"BEX_CN","BEX","Bex China",0,"124","active",2023-12-14 12:56:17.0,"","not available","",Released
+"WND","DWSTD","Asendia (WN) South Africa",0,"125","active",2019-04-26 09:40:33.0,"","not available","",Released
+"CHRONOPOST","CHRONOPOST","CHRONOPOST",2,"126","deleted",2019-04-26 09:40:33.0,"","not available","",Released
+"WND","WNDCAN","Asendia (WN) Canada",0,"127","active",2024-01-15 12:42:09.0,"","not available","",Released
+"PARROUTE","PARCELROUTE","ParcelRoute",0,"128","deprecated",2019-04-26 09:40:33.0,"DM-030","deprecated",2018-11-17 10:19:54.0,Released
+"PALLWS","PALLETWAYS","Palletways",0,"129","deprecated",2019-04-26 09:40:33.0,"","not available","",Released
+"ARAMEX","ARAMEX","Aramex",0,"130","active",2023-12-14 12:50:57.0,"","not available","",Released
+"FEDEX_CB","P2P","FedEx Cross Border",1,"134","active",2025-02-21 12:57:47.0,"","not available","",Released
+"PANT_2M","PANTHER2MAN","AIT Home Delivery",0,"135","active",2024-09-26 09:19:13.0,"","not available","",Released
+"DHL_PAR_UK","RTTODAY","Retail Today",0,"140","deprecated",2019-04-26 09:40:46.0,"","not available","",Released
+"HER_UK","HERCXB","Evri Cross Border (UK)",0,"153","active",2024-11-21 12:44:47.0,"","not available","",Released
+"COLISSIMO","SOCOLISSIMO","Colissimo",0,"154","deprecated",2024-07-04 14:17:45.0,"","not available","",Released
+"DX","DXB2B","DX B2B",0,"163","active",2019-04-26 09:40:56.0,"","not available","",Released
+"DX","DXF01","DX Freight",0,"316","deprecated",2024-09-09 09:17:10.0,"DXF-01","deprecated",2024-09-09 09:17:10.0,Released
+"DHL_PAR_UK","UKM01","DHL Parcel UK International",1,"317","deleted",2019-04-26 09:41:40.0,"UKM-01","deprecated",2018-05-23 00:00:00.0,Released
+"COLL_PLUS","COL01","Yodel Out of Home",0,"329","active",2023-06-14 11:26:59.0,"COL-01","active",2018-01-01 00:00:00.0,Released
+"LANDMARK","LG01","Landmark Global",0,"338","active",2023-07-04 11:15:21.0,"LG-01","active",2017-10-04 00:00:00.0,Released
+"GEOD_UK","GEO01","Geodis",0,"339","active",2019-04-26 09:42:05.0,"GEO-01","deprecated",2018-10-02 00:00:00.0,Released
+"ASDA","ASDA01","toYou",0,"348","active",2024-11-07 12:17:45.0,"ASDA-01","active",2024-11-07 12:17:45.0,Released
+"DO_UK","DO01","Doddle Parcel Services",0,"350","deprecated",2019-04-26 09:42:07.0,"DO-01","deprecated",2016-08-24 00:00:00.0,Released
+"INPOST_UK","IP-02","InPost UK Ltd",0,"358","deprecated",2019-04-26 09:42:14.0,"IP-02","deprecated",2018-10-16 00:00:00.0,Released
+"ASN","AS01","Asendia",0,"369","active",2019-04-26 09:42:15.0,"AS-01","active",2018-08-24 00:00:00.0,Released
+"NOR_GL","NG04","Norsk Global",0,"376","active",2023-10-16 12:21:06.0,"NG-01","active",2023-10-16 12:21:06.0,Released
+"FEDEX","FDXE","FedEx Legacy API",0,"506","deprecated",2019-04-26 09:42:54.0,"","not available","",Released
+"YODEL","YODYLW","Yodel Yellow",0,"513","deprecated",2019-04-26 09:53:55.0,"","not available","",Released
+"BASIC_TEST","TESTBASIC","Test Basic Carrier",0,"900000","active",2019-04-26 09:54:07.0,"","not available","",Released
+"COUPOST_NZ","CPNZ","CourierPost NZ",0,"155","active",2019-04-26 09:40:53.0,"","not available","",Released
+"DPD_IE","DPD06","DPD Ireland",0,"322","active",2024-09-09 08:27:55.0,"DPD-06","active",2025-02-24 11:38:12.0,Released
+"APG_ECOM","AGS01","APG eCommerce",0,"391","active",2022-12-05 12:34:55.0,"AGS-01","active",2017-11-28 00:00:00.0,Released
+"DE_POST","DP04","Deutsche Post Packet Tracked",0,"392","deprecated",2019-04-26 09:42:26.0,"DP-04","deprecated",2018-01-29 00:00:00.0,Released
+"DHL_ECOMM","DHLECOM","DHL eCommerce",0,"507","deprecated",2019-04-26 09:53:50.0,"","not available","",Released
+"DEPEX_UK","DPEX","DPEX UK",0,"512","deprecated",2019-04-26 09:53:53.0,"","not available","",Released
+"DAI","DAI","DAI",0,"515","deprecated",2019-04-26 09:53:59.0,"","not available","",Released
+"WND","WNDSGP","wnDirect Singapore",1,"149","deleted",2024-05-15 13:31:22.0,"","not available","",Released
+"BRING","BRING","BRING",0,"152","deprecated",2023-03-10 08:16:37.0,"BP-05","deprecated",2018-11-13 00:00:00.0,Released
+"WND","WNDSK","Asendia (WN) South Korea",0,"157","active",2019-04-26 09:40:55.0,"","not available","",Released
+"INPOST_PL","INPPOL","InPost Poland",0,"158","deprecated",2019-04-26 09:40:55.0,"IP-01","deprecated",2018-10-23 00:00:00.0,Released
+"GLS","GLSBELGIUM","GLS Belgium",0,"161","active",2019-04-26 09:40:56.0,"","not available","",Released
+"I_PAR","IPCARCEL","i-parcel",0,"164","active",2019-04-26 09:40:56.0,"","not available","",Released
+"UPS","UPSEAP","UPS European Access Points",0,"166","deprecated",2019-04-26 09:40:57.0,"","not available","",Released
+"WND","WNS","wnShipping",0,"178","active",2024-01-15 12:54:24.0,"","not available","",Released
+"BPOST","TAX01","bpost-Taxipost Belgium",0,"308","active",2024-02-23 10:03:20.0,"TAX-01","active",2024-02-23 10:03:20.0,Released
+"BRT","BA01","BRT-Corriere Espresso",1,"311","active",2024-12-05 11:13:35.0,"BA-01","active",2024-12-05 12:40:52.0,Released
+"GLS","GLS01","GLS Germany",0,"314","deprecated",2019-04-26 09:41:40.0,"","not available","",Released
+"SPEEDEX_GR","SPE01","SpeedEx Greece",0,"321","active",2019-04-26 09:41:42.0,"SPE-01","active",2016-07-26 00:00:00.0,Released
+"SDA","SDA01","SDA Express Courier S.p.A.",0,"324","active",2022-10-04 06:18:46.0,"SDA-01","active",2017-10-23 00:00:00.0,Released
+"ECONT","EC01","Econt Express",0,"334","active",2024-02-26 11:09:16.0,"EC-01","active",2024-02-26 11:09:16.0,Released
+"DPD_EPAR","DPD08","DPD eParcel",0,"353","active",2019-04-26 09:42:08.0,"DPD-08","active",2017-10-04 00:00:00.0,Released
+"CORREOS","C02","Correos Postal 48/72",0,"366","active",2019-04-26 09:42:15.0,"C-02","active",1990-01-01 10:03:13.0,Released
+"BEX_EX","BEX01","BEX Express",0,"383","active",2019-04-26 09:42:19.0,"BEX-01","active",2018-05-15 00:00:00.0,Released
+"SPRING","SPG01","Spring Global",0,"501","deprecated",2019-04-26 09:42:28.0,"","not available","",Released
+"QUNTM","QUT01","Quantium",0,"503","deprecated",2019-04-26 09:42:53.0,"","not available","",Released
+"AU_POST","AUPOST","Australia Post (v2)",0,"508","deprecated",2019-04-26 09:53:52.0,"","not available","",Released
+"GLOB_E","GLBE","Global E Legacy",0,"510","deprecated",2019-04-26 09:53:52.0,"","not available","",Released
+"CARIBOU","DES","Caribou",0,"511","deprecated",2019-04-26 09:53:53.0,"","not available","",Released
+"HER_DE","HERMESPKT","Hermes Paket",0,"162","active",2019-04-26 09:40:56.0,"","not available","",Released
+"DPD_EUR","DPDCZE","DPD Czech",0,"169","deprecated",2019-04-26 09:41:02.0,"","not available","",Released
+"TNT_EX","TNT10NL","TNT Express Netherlands",0,"333","active",2019-04-26 00:00:00.0,"TNT-10","active",1990-01-01 10:03:20.0,Released
+"SEKO","SEKO01","SEKO",0,"359","active",2019-04-26 09:42:14.0,"SEKO-01","active",2018-06-07 00:00:00.0,Released
+"I_PAR","IPARC","I-Parcel(UPS)",0,"505","deprecated",2019-04-26 09:42:54.0,"","not available","",Released
+"JS_LOG","JS","JS Logistics",0,"165","active",2019-04-26 09:40:57.0,"","not available","",Released
+"REL_COL","SG01","Relais Colis",1,"313","active",2023-01-19 13:27:58.0,"SG-01","active",2018-02-14 00:00:00.0,Released
+"B2C_EUR","B2C01","B2C Europe",0,"355","active",2019-04-26 09:42:08.0,"B2C-01","active",2017-06-07 00:00:00.0,Released
+"CORREOS_EX","C04","Correos Express",0,"367","active",2019-04-26 09:42:15.0,"C-04","active",2016-09-20 00:00:00.0,Released
+"MHI","MHI01","Mail Handling International",0,"388","active",2019-04-26 09:42:19.0,"MHI-01","active",2018-06-08 00:00:00.0,Released
+"UB","UBGENERIC","UBsend (Generic)",0,"179","active",2019-04-26 09:41:03.0,"","not available","",Released
+"FEDEX_CB","P2PC04","FedEx Cross Border (Correos)",0,"371","deprecated",2023-01-16 09:23:05.0,"","not available","",Released
+"UB","DHL14UB","United Broker DHL",0,"373","active",2019-04-26 09:42:16.0,"DHL-14","active",1990-01-01 10:03:16.0,Released
+"UB","GLS05UB","United Broker GLS",0,"374","active",2019-04-26 09:42:17.0,"","not available","",Released
+"HER_DE","H08","Hermes Europarcel",1,"375","deleted",2019-04-26 09:42:17.0,"H-08","deprecated",2016-10-20 00:00:00.0,Released
+"UB","UB01","UBsend",0,"390","active",2022-11-04 11:22:08.0,"UB-01","active",2018-05-30 00:00:00.0,Released
+"DHL_ECOMM","DHL49","DHL Parcel Connect Europe",0,"398","active",2024-06-03 07:28:47.0,"DHL-49","active",2024-06-03 07:28:47.0,Released
+"MP_GEN","ASOSTEST","ASOS - Test Carrier",0,"907","active",2023-01-16 09:26:08.0,"","not available","",Released
+"","","Deutsche Post",0,"72","active",1990-01-01 00:02:56.0,"","not available","",Open
+"","DEUDHLEBAY","DHL Germany (eBay)",0,"73","active",1990-01-01 00:02:56.0,"","not available","",Released
+"","HERMESDEU","Hermes DEU - eBay",0,"87","active",1990-01-01 00:02:56.0,"","not available","",Released
+"RM","RM_EBAY_LEGACY","Royal Mail C2C",0,"109","active",1990-01-01 00:02:56.0,"","not available","",Released
+"RM","RM_RS_EBAY_LEGACY","Royal Mail Recorded and Special C2C",0,"110","active",1990-01-01 00:02:56.0,"","not available","",Released
+"DPD_EUR","DPDSE","DPD Sweden",0,"131","deprecated",2019-04-26 09:40:36.0,"","not available","",Released
+"DPD_EUR","DPDDK","DPD Denmark",0,"132","deprecated",2019-04-26 09:40:36.0,"","not available","",Released
+"HAYTONS","Haytons","Haytons",0,"137","deprecated",2019-04-26 09:40:46.0,"","not available","",Released
+"BJS","BJS","BJS",1,"138","deleted",2024-06-20 12:24:59.0,"","not available","",Released
+"YODEL","YODELINT","Yodel International",1,"141","deleted",2019-04-26 09:40:46.0,"","not available","",Released
+"TMF","TMF","TMF",0,"142","deprecated",2019-04-26 09:40:48.0,"","not available","",Released
+"ASDA","ASL","ASDA Logistics Services",1,"145","active",2024-03-28 11:50:03.0,"","not available","",Released
+"TNT_EX","TNTDROPOFF","TNT Drop Off",0,"148","deprecated",2019-04-26 09:40:49.0,"","not available","",Released
+"INPOST_UK","IPPAR","InPost",0,"150","deprecated",2019-04-26 09:40:49.0,"","not available","",Released
+"KIALA","KIALASP","Kiala Spain",0,"156","deprecated",2019-04-26 09:40:55.0,"","not available","",Released
+"DPD_EUR","DPDPL","DPD Poland",0,"159","active",2022-12-05 07:36:14.0,"XSC-01","active",1990-01-01 10:03:18.0,Released
+"KIALA","KIALANL","Kiala Netherlands",0,"160","deprecated",2019-04-26 09:40:55.0,"","not available","",Released
+"FEDEX_CB","P2PDAI","P2P DAI Post",0,"167","deprecated",2019-04-26 09:41:02.0,"","not available","",Released
+"SKYPOST","SKYPOSTAL","SkyPostal Legacy EDI",0,"174","deprecated",2019-04-26 09:41:02.0,"","not available","",Released
+"PARPOINT","PARPNT","ParcelPoint",0,"176","active",2019-04-26 09:41:02.0,"","not available","",Released
+"WND","WNSHPCYP","WNShipping Cyprus",0,"180","deprecated",2019-04-26 09:41:03.0,"","not available","",Released
+"OS_EXP","OVERSEAS","Overseas Express",0,"181","deprecated",2019-04-26 09:41:03.0,"","not available","",Released
+"GAASH_IL","GAASH","GAASH Israel",0,"182","active",2023-12-14 13:05:46.0,"","not available","",Released
+"COLIS_PR","CPR01","Colis Prive",1,"305","active",2024-06-03 07:25:54.0,"CPR-01","active",2024-06-03 07:25:54.0,Released
+"MORY","MOR01","Mory",0,"312","deleted",2019-04-26 09:41:39.0,"MOR-01","deprecated",2018-06-06 00:00:00.0,Released
+"SEC_MAIL","SCM01","Secured Mail",0,"315","active",2019-04-26 09:41:40.0,"SCM-01","active",1990-01-01 10:03:19.0,Released
+"CA_POST","CAP01","Canada Post",1,"320","active",2025-01-07 13:51:51.0,"CAP-01","active",2025-01-07 13:51:51.0,Released
+"OMNIVA","OM01","Omniva",0,"325","active",2019-04-26 09:41:45.0,"OM-01","active",2018-05-28 00:00:00.0,Released
+"DPD_EUR","DPDDEU","DPD International",0,"326","active",2025-02-25 13:29:25.0,"DPD-01","active",2025-02-25 13:29:25.0,Released
+"GSM","GSM01","GSM (Global Shipping Master)",0,"336","active",2019-04-26 09:41:53.0,"GSM-01","active",2018-12-11 00:00:00.0,Released
+"UPS","IA01UPSMI","UPS MI (IA)",0,"337","deleted",2019-04-26 09:41:53.0,"IA-01","deprecated",1990-01-01 10:03:20.0,Released
+"UPS","UPS01EUR","UPS Europe",0,"341","deleted",2019-04-26 09:42:07.0,"UPS-01","deprecated",2019-07-18 00:00:00.0,Released
+"DHL_PAR_BNL","SV01","Selektvracht Netherlands",0,"345","active",2024-06-07 08:02:34.0,"SV-01","active",2024-06-07 08:02:34.0,Released
+"POST_AT","PAT11","Österreichische Post AG - Paket Österreich",0,"346","active",2019-04-26 09:42:07.0,"PAT-11","active",2017-09-11 00:00:00.0,Released
+"PAR_MOT","PM01","Parcel motel",0,"347","active",2019-04-26 09:42:07.0,"PM-01","deprecated",1990-01-01 10:03:16.0,Released
+"POSTI","POS01","Posti",0,"349","active",2019-04-26 09:42:07.0,"POS-01","deprecated",2018-10-24 00:00:00.0,Released
+"DPD_RU","DPD05","DPD Russia",0,"352","active",2019-04-26 09:42:08.0,"DPD-05","active",2019-08-01 00:00:00.0,Released
+"SHIPTOR","G05","Shiptor",0,"356","active",2019-04-26 09:42:14.0,"G-05","active",2016-09-20 00:00:00.0,Released
+"CEDEK","G04","CDEK",0,"357","deprecated",2019-04-26 09:42:14.0,"G-04","deprecated",2016-09-20 00:00:00.0,Released
+"BOXB","G06","Boxberry",0,"363","active",2019-04-26 09:42:14.0,"G-06","active",2016-09-20 00:00:00.0,Released
+"GBF","GF01","Globeflight",0,"372","active",2019-04-26 09:42:16.0,"GF-01","active",2018-08-24 00:00:00.0,Released
+"PMP","PMP01","Pass My Parcel",0,"377","deleted",2019-04-26 09:42:17.0,"PMP-01","deprecated",2017-03-10 00:00:00.0,Released
+"POSTNL","TNT-06","PostNL v2",0,"378","active",2025-02-18 10:57:04.0,"TNT-06","active",2025-02-18 10:57:04.0,Released
+"GLS","GLS01_MPM","GLS",0,"379","deleted",2019-04-26 09:42:18.0,"GLS-01","deprecated",1990-01-01 10:03:17.0,Released
+"COUR_PLS","COP01","Couriers Please",0,"380","active",2025-02-19 09:19:51.0,"COP-01","active",2025-02-19 09:19:51.0,Released
+"CH_POST","CH03","CH Paket Post",0,"381","active",2023-12-11 11:22:16.0,"CH-03","active",2023-12-11 11:22:16.0,Released
+"NAQEL","NEX01","Naqel Express",0,"382","active",2019-04-26 09:42:18.0,"NEX-01","active",2021-04-08 00:00:00.0,Released
+"CLICKLINK","JVCL01","Clicklink",0,"385","active",2022-10-27 08:50:26.0,"JVCL-01","active",2018-11-16 00:00:00.0,Released
+"WND","CHR01","Asendia (WN) Chronopost Morocco",0,"393","active",2019-04-26 09:42:26.0,"","not available","",Released
+"WND","MEX01","Asendia (WN) MEX",0,"395","active",2019-04-26 09:42:26.0,"MEX-01","active",2018-05-02 00:00:00.0,Released
+"PCL","PCL01","PCL",0,"396","active",2019-04-26 09:42:26.0,"PCL-01","active",2018-06-12 00:00:00.0,Released
+"DHL_PAR_BNL","DHL29","DHL BeNeLux",0,"397","active",2019-04-26 09:42:26.0,"DHL-29","active",1990-01-01 10:03:16.0,Released
+"CAE_DEL","CAE01","CAE Delivers",0,"399","deleted",2019-04-26 09:42:27.0,"CAE-01","deprecated",2019-02-14 00:00:00.0,Released
+"NEWGISTICS","NEWGSUSPS","Newgistics USPS",0,"504","deprecated",2019-04-26 09:42:54.0,"","not available","",Released
+"CUST_CLER","CCL","Customs Clearance Limited",0,"509","deprecated",2019-04-26 09:53:52.0,"","not available","",Released
+"NOV_POS","NOVAP","Nova Poshta",0,"514","deprecated",2019-04-26 09:53:59.0,"","not available","",Released
+"SKYPOST","SKYP","SkyPostal Legacy API",0,"516","deprecated",2019-04-26 09:53:59.0,"","not available","",Released
+"UPS","UPSGLO","UPS Global Origin",0,"601","deprecated",2019-04-26 09:54:06.0,"","not available","",Released
+"DHL_GM","DHLGM","DHL Global Mail",0,"602","deprecated",2019-04-26 09:54:06.0,"","not available","",Released
+"NEWGISTICS","NEWGISTX","Newgistics Legacy API",0,"603","deprecated",2019-04-26 09:54:06.0,"","not available","",Released
+"JETPAK","JPA01","Jetpak Finland",0,"","not available","","JPA-01","active",2018-12-04 00:00:00.0,Open
+"SI_POSTA","PS01","Slovenska Posta",0,"","not available","","PS-01","deprecated",2018-12-11 00:00:00.0,Released
+"NIGHT_STAR_EX","NIG01","Spedition Nightstar",0,"","not available","","NIG-01","active","",Open
+"UPS","UPSREADY","UPS Ready Legacy",0,"517","deprecated",2019-04-26 09:54:00.0,"","not available","",Released
+"NEWGISTICS","NEWGISTICS","Newgistics Legacy",0,"518","deprecated",2019-04-26 09:54:04.0,"","not available","",Released
+"","","Yodel",0,"","not available","","YOD-01","deprecated",2019-03-15 00:00:00.0,Released
+"B2C_PL","B2CPL01","B2C Payments & Logistics",0,"","not available","","B2CPL-01","deprecated",2019-02-11 00:00:00.0,Released
+"HONOLD","HO01","Spedition Honold",0,"","not available","","HO-01","deprecated",2020-12-03 13:10:45.0,Released
+"IDS","IDS01","Spedition IDS-Norpel",0,"","not available","","IDS-01","deprecated",2019-02-27 09:16:43.0,Released
+"","","Spedition Lebert",0,"","not available","","LEB-01","deprecated",2020-12-07 11:00:28.0,Released
+"","","Spedition Milkrun",0,"","not available","","MILK-01","deprecated",2020-12-03 13:13:49.0,Released
+"PICKPOINT","PPO01","PickPoint",0,"","not available","","PPO-01","active",2019-02-28 00:00:00.0,Released
+"","","Australia Post",0,"","not available","","","active","",Reviewed
+"BQ","BQOF","B&Q own fleet",0,"183","active",2019-04-26 09:41:04.0,"","not available","",Released
+"CORREOS","C05","Correos Postal",0,"400","active",2019-04-26 09:42:27.0,"C-05","active",2018-01-26 00:00:00.0,Released
+"QUIQUP","QUP01","Quiqup",1,"401","deleted",2019-04-26 09:42:28.0,"QUP-01","active",2018-10-25 00:00:00.0,Released
+"STAMPS","STAMPS","Stamps",1,"519","deleted",2019-04-26 09:54:05.0,"","not available","",Released
+"RU_POST","RP01","Russian Post",0,"","not available","","RP-01","active",2019-08-14 00:00:00.0,Released
+"DIRLINK","DL01","Direct Link (Blue)",0,"310","deprecated",2025-01-30 15:06:20.0,"DL-01","deprecated",2025-01-30 15:06:20.0,Released
+"HER_BG","BG01","BorderGuru",0,"","not available","","BG-01","deprecated",2019-04-26 00:00:00.0,Released
+"VAQUIER","VT01","Vaquier Transports",0,"","not available","","VT-01","deprecated",2019-05-08 00:00:00.0,Released
+"DHL_EXP","DHL11","DHL Express International",0,"343","active",2024-12-17 11:42:33.0,"DHL-11","active",2024-12-17 11:42:33.0,Released
+"DHL_ECOMM","DHL50","DHL Parcel Iberia",0,"402","deleted",2019-05-15 18:33:05.0,"DHL-50","deprecated",2019-03-12 00:00:00.0,Released
+"CITYSP_UK","CS01","CitySprint UK On The Dot (Obsolete)",0,"403","deprecated",2022-10-20 09:17:01.0,"CS-01","deprecated",2018-05-17 00:00:00.0,Released
+"DHL_PAR_BNL","DHL42","DHL Parcel BeNeLux",0,"389","active",2024-10-07 08:44:22.0,"DHL-42","active",2024-10-07 08:44:22.0,Released
+"POST_AT","PAT06","ÖSTERREICHISCHE POST AG - INTERNATIONAL UPU",0,"404","active",2019-06-07 13:36:27.0,"PAT-06","active",2017-12-28 00:00:00.0,Released
+"CEDEK","CDEK01","CDEK Logistics Solutions",0,"","not available","","CDEK-01","active",2019-12-19 00:00:00.0,Released
+"UPS","UPS04","UPS Ready",0,"408","active",2025-03-14 14:53:19.0,"UPS-04","active",2025-03-14 14:53:19.0,Released
+"MEEST","MEEST","Meest",0,"520","deprecated",2019-08-15 18:37:27.0,"","not available","",Released
+"NEWGISTICS","NEW02","Newgistics EDI",0,"409","active",2019-09-11 00:00:00.0,"NEW-02","deprecated",2018-06-06 00:00:00.0,Released
+"HER_DE","H10","Hermes Germany Europarcel",0,"405","active",2025-03-10 10:52:56.0,"H-10","active",2025-03-10 10:52:56.0,Released
+"MENZ","MNZ01","Menzies",0,"406","active",2022-12-12 13:14:04.0,"MNZ-01","active",2019-07-04 00:00:00.0,Released
+"SF_EXP","SF01","SF Express",0,"407","active",2025-01-29 12:15:39.0,"SF-01","active",2025-01-29 12:15:39.0,Released
+"PROF_PAR","PPL01","Professional Parcel Logistic",0,"412","active",2023-02-03 14:24:49.0,"PPL-01","active",2018-06-01 00:00:00.0,Released
+"","OEX01","Overseas Express Croatia",0,"413","deleted","","OEX-01","active",2019-11-07 00:00:00.0,Open
+"POSTNORD","PND01","PostNord",0,"360","deprecated",2025-02-04 10:18:55.0,"PND-01","deprecated",2025-02-04 10:18:55.0,Released
+"TNT_EX","TNT07","TNT France",0,"414","active",2021-09-02 00:00:00.0,"TNT-07","active",2021-07-01 00:00:00.0,Released
+"ECOM_EX","ECOM01","ECOM Express",0,"","not available","","ECOM-01","active",2019-09-26 00:00:00.0,Released
+"BUDBEE","BUD01","Budbee",0,"415","active",2023-05-22 09:26:34.0,"BUD-01","active",2024-04-30 13:12:20.0,Released
+"YODEL","YOD02","Yodel",1,"410","active",2025-02-12 13:23:30.0,"YOD-02","active",2025-02-12 13:23:30.0,Released
+"DE_POST","DP05","Deutsche Post International",0,"416","active",2025-01-31 12:34:11.0,"DP-05","active",2025-01-31 12:34:11.0,Released
+"ON_DOT","CS02","CitySprint",0,"417","active",2024-01-18 11:32:24.0,"CS-02","active",2024-01-18 11:32:24.0,Released
+"PAACK","PAA01","Paack",1,"419","active",2024-05-27 09:23:48.0,"PAA-01","active",2024-05-27 09:23:48.0,Released
+"SPRING","SPR01","Spring Global Delivery Solutions",1,"411","active",2023-03-27 10:08:32.0,"SPR-01","active",2024-10-02 11:48:37.0,Released
+"","","Geodis United States",0,"","not available","","GEO-02","active","",Open
+"CJ","CJ01","CJ Logistics",0,"","not available","","CJ-01","active",2024-11-21 07:17:50.0,Released
+"DPD_UK","DPD07","DPD United Kingdom",0,"421","active",2024-11-14 13:06:35.0,"DPD-07","active",2024-11-14 13:06:35.0,Released
+"GEIS","GEIS01","Geis Global Logistics",1,"420","deleted",2021-03-26 00:00:00.0,"GEIS-01","deprecated",2019-12-11 00:00:00.0,Released
+"JERS_PO","JPO01","Jersey Post",0,"418","active",2020-03-16 00:00:00.0,"JPO-01","active",2020-08-12 00:00:00.0,Released
+"PARCELFORCE","PF01","Parcelforce",0,"422","active",2023-10-04 13:03:50.0,"PF-01","active",2023-10-04 13:03:50.0,Released
+"POSTNORD","PDK01","Post Dänemark - Post DK",0,"423","deprecated",2025-01-30 14:15:23.0,"PDK-01","deprecated",2025-01-30 14:15:23.0,Released
+"EARLY_BIRD","EB01","Early Bird",0,"","not available","","EB-01","active",2020-02-27 00:00:00.0,Released
+"","","Spring Returns",0,"","not available","","SPR-02","active","",Open
+"INPOST_UK","IP05","Inpost United Kingdom",0,"425","deprecated",2020-10-07 00:00:00.0,"IP-05","deprecated",2023-10-02 08:12:02.0,Released
+"APC","APC","APC",1,"45","deleted",2020-03-15 19:42:58.0,"","not available","",Released
+"PARCELFORCE","PF02","Parcelforce International",0,"426","active",2020-05-14 00:00:00.0,"PF-02","active",2020-04-24 00:00:00.0,Released
+"FASTWAY_AU","FW01","Fastway Australia",0,"428","active",2023-03-30 09:01:49.0,"FW-01","active",2020-05-07 00:00:00.0,Released
+"DPD_EUR","DPD03","DPD Austria",1,"424","active",2023-10-10 09:29:06.0,"DPD-03","active",2023-10-10 09:29:06.0,Released
+"SAG","SAG01","Sagawa",0,"429","active",2020-05-06 00:00:00.0,"SAG-01","active",2018-03-01 00:00:00.0,Released
+"RU_POST","RP02","Russian Post International",1,"430","active",2020-06-03 00:00:00.0,"RP-02","active",2020-09-18 00:00:00.0,Released
+"TCK_EXP","TCK01","TCK Express",0,"431","active",2024-10-03 09:26:32.0,"TCK-01","active",2024-10-03 09:26:32.0,Released
+"ONTR","ONTR01","OnTrac",1,"433","active",2024-01-29 12:31:38.0,"ONTR-01","active",2024-01-29 12:31:38.0,Released
+"MOND_REL","MR02","Mondial Relay Distribution",0,"432","active",2022-12-09 11:47:35.0,"MR-02","active",2020-07-16 00:00:00.0,Released
+"DHL_PAK","DHL52","DHL Germany Retoure",0,"434","active",2021-01-21 00:00:00.0,"DHL-52","active",2020-06-18 00:00:00.0,Released
+"SI_POSTA","SLV01","Slovenska Posta",0,"436","active",2022-07-27 11:00:09.0,"SLV-01","active",2022-01-13 00:00:00.0,Released
+"COM1_GDEX","COM01","COM1 and GDEX",0,"437","active",2024-06-13 10:43:09.0,"COM-01","active",2024-06-13 10:43:09.0,Released
+"GEOD_FR","GEO03","GEODIS France",2,"438","active",2023-09-08 07:43:55.0,"GEO-03","active",2021-08-12 00:00:00.0,Released
+"STUART","STC01","Stuart",0,"439","active",2024-02-07 09:21:47.0,"STC-01","active",2024-02-07 09:21:47.0,Released
+"MOND_REL","MR03","Mondial Relay Distribution – Partner Network",0,"","not available","","MR-03","deprecated",2020-06-18 00:00:00.0,Released
+"AMZ_SH","AMZ01","Amazon Shipping",1,"427","active",2024-08-29 09:12:09.0,"AMZ-01","active",2025-01-18 18:19:45.0,Released
+"CA_POST","CAP02","Canada Post Third Party",0,"435","active",2022-12-08 15:59:32.0,"CAP-02","active",2020-04-09 00:00:00.0,Released
+"","DHLGM01","DHL Global Mail",0,"440","deleted","","DHLGM-01","active","",Open
+"BOXB","BXB01","Boxberry Russia",0,"441","active",2021-01-21 00:00:00.0,"BXB-01","active",2020-07-30 00:00:00.0,Released
+"POCZTEX","PL03","Poczta Polska - Pocztex Ekspres",0,"442","active",2020-09-03 00:00:00.0,"PL-03","active",2020-05-21 00:00:00.0,Released
+"NEWGISTICS","NEW03","Newgistics US",0,"443","active",2024-08-13 11:31:57.0,"NEW-03","active",2024-09-04 12:48:40.0,Released
+"RS_VAN","RSV01","RS Generic Carrier",0,"444","active",2024-03-26 08:15:10.0,"RSV-01","active",2024-03-26 08:15:10.0,Released
+"INPOST_PL","IP04","Inpost PL",0,"445","active",2020-09-03 00:00:00.0,"IP-04","active",2019-11-22 00:00:00.0,Released
+"W2S","W2S01","Way2Send",0,"446","active",2020-09-30 00:00:00.0,"W2S-01","active",2020-09-24 00:00:00.0,Released
+"CITY_EX","CEX01","City Express",0,"447","active",2021-06-10 00:00:00.0,"CEX-01","active",2021-06-17 00:00:00.0,Released
+"COLL8","COLL801","COLL-8 Logistics",0,"448","active",2020-08-26 00:00:00.0,"COLL8-01","active",2020-08-27 00:00:00.0,Released
+"GEOD_HK","GEO04","Geodis Hong Kong",0,"449","active",2024-11-25 07:49:46.0,"GEO-04","active",2024-11-25 07:49:46.0,Released
+"TOLL","TOLL01","Toll",0,"450","active",2024-10-31 09:09:33.0,"TOLL-01","active",2024-10-31 09:09:33.0,Released
+"HELTHJEM","HEL01","Helthjem",0,"","not available","","HEL-01","active",2020-08-31 00:00:00.0,Released
+"ZIEG_UK","ZIG01","RS Freight",1,"451","active",2024-08-12 11:10:28.0,"ZIG-01","active",2024-08-12 11:10:28.0,Released
+"ESHWDROP","ESW01","EshopWedrop",0,"452","active",2021-04-29 00:00:00.0,"ESW-01","active",2020-04-23 00:00:00.0,Released
+"PUR","PURO01","Purolator International",1,"453","active",2024-07-11 08:15:11.0,"PURO-01","active",2024-07-11 08:15:11.0,Released
+"MEEST","MES01","MEEST",0,"454","active",2021-03-11 00:00:00.0,"MES-01","active",2019-03-22 00:00:00.0,Released
+"SEUR","SR01","Seur Logistics",1,"455","active",2024-08-19 12:09:00.0,"SR-01","active",2024-08-19 12:09:00.0,Released
+"NINJAV","NVA01","NinjaVan",0,"456","deprecated",2023-10-16 12:52:43.0,"NVA-01","deprecated",2023-10-16 12:52:43.0,Released
+"GEOD_UK","GEO05","Geodis Air and Sea",0,"458","active",2021-09-02 00:00:00.0,"GEO-05","active",2021-08-26 00:00:00.0,Released
+"DHL_ECOMM","DHLEC01","DHL eComm",0,"459","active",2024-12-18 12:55:31.0,"DHLEC-01","active",2024-12-18 12:55:31.0,Released
+"DHL_PAR_UK","UKM03","DHL Parcel UK v.2.0",1,"461","active",2024-10-22 06:36:56.0,"UKM-03","active",2024-10-22 06:36:56.0,Released
+"DHL_PAK","DHL15","DHL Paket (GK)",0,"462","deleted",2022-01-05 00:00:00.0,"DHL-15","deprecated",2023-12-20 15:21:49.0,Released
+"FGHTW","FWS01","Freightways",0,"463","active",2021-01-21 00:00:00.0,"FWS-01","active",2020-11-05 00:00:00.0,Released
+"MOND_REL","MR04","Mondial Relay Logistics",0,"","not available","","MR-04","active",2021-02-11 00:00:00.0,Released
+"GLS","GLS04","GLS Netherlands",0,"464","deleted","","GLS-04","deprecated",2018-10-23 00:00:00.0,Open
+"DHL_ECOMM","DHL01","DHL Europaket",0,"465","active",2022-11-07 15:10:05.0,"DHL-01","active",1990-01-01 10:03:18.0,Released
+"FEDEX","FXE","FedEx API",0,"701","active",2024-08-29 13:24:01.0,"FXE","active","",Released
+"LASERSHIP","LSR01","LaserShip",0,"466","deleted","","LSR-01","deprecated",2020-12-09 00:00:00.0,Open
+"GLS","GLS10","GLS Netherlands - Label API",0,"467","active",2021-02-11 00:00:00.0,"GLS-10","active",2021-01-28 00:00:00.0,Released
+"DHL_FRG","DHL53","DHL Freight Netherlands",0,"468","active",2021-02-18 00:00:00.0,"DHL-53","active",2021-02-11 00:00:00.0,Released
+"PRO_CAR","PC01","Pro Carrier",0,"469","active",2024-07-10 08:02:35.0,"PC-01","active",2024-07-10 08:02:35.0,Released
+"FAN","FAN01","FAN Courier",0,"470","deprecated",2024-10-14 13:17:01.0,"FAN-01","active",2024-10-14 13:17:01.0,Released
+"","","Temis Luxury",0,"","not available","","","active","",Reviewed
+"99MIN","99M01","99Minutos",0,"471","active",2021-04-01 00:00:00.0,"99M-01","active",2021-03-26 00:00:00.0,Released
+"LANDMARK","LG02","Landmark Global API",0,"457","active",2021-03-26 00:00:00.0,"LG-02","active",2021-03-11 00:00:00.0,Released
+"COLISSIMO","LP07","Colissimo La Poste",1,"472","active",2025-03-04 12:32:04.0,"LP-07","active",2025-03-04 12:32:04.0,Released
+"AU_POST","AUP01","Australia Post 3rd party platform",1,"473","active",2024-02-21 10:23:24.0,"AUP-01","active",2024-02-21 10:23:24.0,Released
+"SUP_GEN","G03","Super Generic",0,"474","active",2021-04-28 00:00:00.0,"G-03","active",1990-01-01 10:03:16.0,Released
+"CTT_COR_PAR","CTT02","CTT Correios Parcel",0,"475","active",2022-10-28 09:45:46.0,"CTT-02","active",1990-01-01 10:03:16.0,Released
+"IMX_FR","IMX01","IMX France",0,"476","active",2021-04-06 00:00:00.0,"IMX-01","active",2017-08-23 00:00:00.0,Released
+"USPS","USPS02","USPS (EDI)",0,"477","active",2024-01-04 11:56:22.0,"USPS-02","active",2024-01-04 11:56:22.0,Released
+"GLS","GLS06","GLS France",0,"478","deprecated",2024-04-19 06:41:27.0,"GLS-06","deprecated",2024-04-19 06:41:27.0,Released
+"","","Bring Parcels",0,"","not available","","","active","",Reviewed
+"FEDEX","FXEUK","FedEx UK API",0,"702","active",2024-10-09 09:01:35.0,"FXEUK","active",2024-10-09 09:01:35.0,Released
+"DHL_FRG","DHL51","DHL Freight v2",0,"479","active",2023-09-22 10:19:33.0,"DHL-51","active",2023-09-22 10:19:33.0,Released
+"PRIMELINE","PML01","PrimeLine Express",0,"480","active",2021-06-11 00:00:00.0,"PML-01","active",2021-10-07 00:00:00.0,Released
+"BST_TRAN","BT01","Best Transport",0,"481","active",2021-05-19 00:00:00.0,"BT-01","active",2018-12-20 00:00:00.0,Released
+"GLS","GLS03","GLS Poland",0,"482","deprecated",2025-01-09 11:38:26.0,"GLS-03","deprecated",2025-01-09 11:38:26.0,Released
+"GEIS","GEIS02","Geis Eurocargo and Geis Bischoff Logistics",0,"483","active",2024-08-13 13:50:50.0,"GEIS-02","active",2024-08-13 13:50:50.0,Released
+"POSTNL","CIF01","CIF 3rd party platform",0,"484","active",2024-04-22 10:20:09.0,"CIF-01","active",2024-04-22 10:20:09.0,Released
+"MM_SRB","G03MM","M&M Serbia",0,"485","active",2021-06-07 00:00:00.0,"MM-01","active",2022-04-07 00:00:00.0,Released
+"ANA_LMD","G03AN","Ananas Express",0,"487","active",2021-06-07 00:00:00.0,"ANEX-01","active",2022-04-07 00:00:00.0,Released
+"COLISSIMO","LP06","LaPoste - Colissimo",0,"486","active",2025-01-16 09:29:40.0,"LP-06","active",2025-02-28 13:26:21.0,Released
+"","","SEKO Ecommerce",0,"","deprecated","","","not available","",Rejected
+"DACHSER","DA01","Dachser Spedition",0,"488","active",2024-03-15 13:17:30.0,"DA-01","active",2024-03-15 13:17:30.0,Released
+"DPD_EUR","DPD12","DPD Czech Republic",0,"489","active",2023-10-23 10:44:02.0,"DPD-12","active",2023-10-23 10:44:02.0,Released
+"DPD_FR","DPD10","DPD FR",0,"491","active",2021-08-19 00:00:00.0,"DPD-10","active",2019-06-21 00:00:00.0,Released
+"TRUN","TR01","Trunkrs",0,"492","active",2021-09-03 00:00:00.0,"TR-01","active",2021-08-12 00:00:00.0,Released
+"AIRMEE","AIR01","Airmee",0,"493","active",2024-10-28 12:12:06.0,"AIR-01","active",2024-10-28 12:12:06.0,Released
+"SEND_TSP_URG","SND01","Sending Transporte Urgente",0,"494","active",2024-08-23 09:37:40.0,"SND-01","active",2024-08-23 09:37:40.0,Released
+"EXL","EXL01","Exelot",0,"495","active",2021-09-02 00:00:00.0,"EXL-01","active",2021-08-26 00:00:00.0,Released
+"FEDEX","F01","FedEx Native API",0,"496","active",2025-02-12 11:25:33.0,"F-01","active",2025-02-12 11:25:33.0,Released
+"DB_SCH","SCH05","DB SC",0,"497","active",2021-06-17 00:00:00.0,"SCH-05","active",2018-01-11 00:00:00.0,Released
+"SEKO","SEKO","SEKO Ecommerce",0,"704","active",2024-07-04 09:32:50.0,"SEKO","active","",Released
+"NACEX","NA01","Nacex",0,"498","active",2023-08-22 08:23:36.0,"NA-01","active",2023-08-02 08:20:32.0,Released
+"DYNALOGIC","DYN01","Dynalogic",0,"499","active",2024-03-07 12:14:07.0,"DYN-01","active",2024-03-07 12:14:07.0,Released
+"GLS","GLS11","GLS ShipIt",1,"1000","active",2025-02-12 10:45:11.0,"GLS-11","active",2025-02-12 10:45:11.0,Released
+"TNT_EX","TNT13","TNT Express Italy 2",0,"1015","active",2022-10-04 09:34:58.0,"TNT-13","active",2017-06-13 00:00:00.0,Released
+"WHISTL","WHIAPI","Whistl API",0,"705","active",2024-07-02 08:44:59.0,"WHIAPI","active","",Released
+"INT_BRIDGE","IB01","International Bridge",1,"1003","active",2024-11-14 09:29:44.0,"IB-01","active",2024-11-14 09:29:44.0,Released
+"2GO_GRP","2GO01","2GO",0,"1001","active",2021-10-01 00:00:00.0,"2GO-01","active",2021-10-01 00:00:00.0,Released
+"DB_SCH","SCH04","DB Schenker privpak Ombud Ekonomi",0,"1002","active",2023-04-05 09:54:49.0,"SCH-04","active",2018-03-05 00:00:00.0,Released
+"SWOOPIN","SWP01","Swoopin",0,"1004","active",2021-09-16 00:00:00.0,"SWP-01","active",2021-09-09 00:00:00.0,Released
+"FIESTSK","FK01","Fietskoeriers.nl",0,"1005","active",2024-04-04 13:42:51.0,"FK-01","active",2024-04-04 13:42:51.0,Released
+"RJP","RJP","Red je Pakketje",0,"706","active",2024-08-07 14:18:48.0,"RJP","active","",Released
+"TAMDIS","TAM01","Tamdis Logistics",0,"1006","active",2021-10-27 00:00:00.0,"TAM-01","active",1990-01-01 10:03:19.0,Released
+"","","Uber/Postmates",0,"","not available","","","active","",Open
+"ALLIED_EX","AEX01","Allied Express",0,"1007","active",2022-01-19 00:00:00.0,"AEX-01","active",2020-02-27 00:00:00.0,Released
+"SW_PRZES","SWI01","Swiat Przesylek",0,"1008","active",2021-10-29 00:00:00.0,"SWI-01","active",2021-09-24 00:00:00.0,Released
+"CELER","CE01","Celeritas",0,"1009","active",2025-01-08 11:22:39.0,"CE-01","active",2025-01-08 11:22:39.0,Released
+"DHL_ECOMM","DHL48","DHL Parcel PL",0,"1010","active",2022-05-12 00:00:00.0,"DHL-48","active",2019-04-25 00:00:00.0,Released
+"SF_EXP","SF02","SF Express IBS",0,"1012","active",2021-11-11 00:00:00.0,"SF-02","active",2024-05-13 09:06:26.0,Released
+"POSTNORD","PND02","PostNord Norway",0,"1013","deprecated",2025-01-30 10:05:15.0,"PND-02","deprecated",2025-01-30 10:05:15.0,Released
+"DHL_PAK","DHL54","DHL Paket Germany",0,"1014","active",2025-03-06 09:52:14.0,"DHL-54","active",2025-03-06 09:52:14.0,Released
+"ZALANDO","ZPL01","Zalando Premium Logistics",0,"","not available","","ZPL-01","active",2021-11-18 00:00:00.0,Released
+"POSTI","IT01","Posti Finland",0,"1016","active",2023-02-22 10:35:30.0,"IT-01","active",2023-11-23 10:42:12.0,Released
+"TOUSF","TOUSF","Tousfacteurs",0,"707","active",2024-08-01 13:10:49.0,"TOUSF","active","",Released
+"LV_OF","LV_OF","LV own fleet",0,"709","active",2024-08-01 12:37:47.0,"LV_OF","active","",Released
+"TNT_EX","TNT12","TNT Express France",0,"1018","active",2022-03-17 00:00:00.0,"TNT-12","active",2017-06-05 00:00:00.0,Released
+"BRIDGES","BRDGS01","BRDGS",0,"1019","active",2022-01-06 00:00:00.0,"BRDGS-01","active",2021-12-16 00:00:00.0,Released
+"HOMERR","HOM01","Homerr",0,"1020","active",2021-12-30 00:00:00.0,"HOM-01","active",2021-12-30 00:00:00.0,Released
+"QUICKPAC","QUI01","Quickpac",0,"1021","active",2023-05-10 07:47:53.0,"QUI-01","active",2021-12-16 00:00:00.0,Released
+"UPS","UPS_API","UPS API",0,"703","deprecated",2024-08-01 10:15:57.0,"UPS_API","deprecated","",Released
+"GLS","GLS08","GLS Hungary",0,"1022","active",2024-07-25 13:11:34.0,"GLS-08","active",2024-07-25 13:11:34.0,Released
+"HER_RU","HD01","Hermes - DPD Russia",0,"1023","deleted","","HD-01","deprecated",2017-06-09 00:00:00.0,Released
+"TOF","TOF03","Express One Hungary",0,"1024","active",2022-01-24 00:00:00.0,"TOF-03","active",2017-11-17 00:00:00.0,Released
+"COLIS_PR","CPR02","Colis Prive Group",0,"1025","active",2024-03-12 15:36:59.0,"CPR-02","active",2024-12-05 13:17:30.0,Released
+"GLS","GLS09","GLS Italy",0,"1026","active",2022-02-17 00:00:00.0,"GLS-09","active",2018-01-26 00:00:00.0,Released
+"ENVIALIA","ENV01","Envialia",0,"1027","active",2022-01-20 00:00:00.0,"ENV-01","active",2018-03-16 00:00:00.0,Released
+"SKYNET","","Skynet",0,"","deleted","","","not available","",Open
+"FER","FER","Ferrari",0,"715","active",2024-07-31 07:09:03.0,"FER","active","",Released
+"ZEDIFY","ZED01","Zedify",0,"1017","deprecated",2025-02-25 11:54:26.0,"ZED-01","deleted",2025-02-25 11:54:26.0,Released
+"PAQ_EX","PAQEX","PaqueteExpress",0,"717","active",2024-08-01 12:55:57.0,"PAQEX","active","",Released
+"LIFERGRUN","LIF01","Liefergrün",0,"1029","active",2022-10-19 08:07:59.0,"LIF-01","active",2022-03-08 00:00:00.0,Released
+"CANPAR","CANPAR_SE","Canpar",0,"714","active",2024-08-05 13:38:05.0,"CANPAR_SE","active","",Released
+"GOPHR","GOPHR","Gophr",0,"712","active",2024-08-06 12:01:30.0,"GOPHR","active","",Released
+"URBIFY","UL01","Urbify Logistics",1,"1030","active",2025-01-14 11:21:56.0,"UL-01","active",2025-01-14 11:21:56.0,Released
+"SE_DUMMY","DUM","Dummy module",0,"713","active",2024-06-25 11:04:55.0,"DUM","active","",Released
+"ANGEL","ALM","Angel Last Mile",0,"719","deprecated",2024-07-24 10:20:55.0,"","not available","",Released
+"CY_EXP","CY01","CY Express",0,"1031","deleted","","CY-01","deleted","",Open
+"POST_AT","PAT12","Österreichische Post AG",0,"1032","active",2024-06-05 09:00:34.0,"PAT-12","active",2024-06-05 09:00:34.0,Released
+"SENDLE","SENDLE","Sendle",0,"716","active",2024-08-01 13:34:32.0,"SENDLE","active","",Released
+"URB_IT","URB_IT","FinMile",0,"723","active",2024-12-06 12:48:47.0,"URB_IT","active","",Released
+"WINCANTON","WIN01","Wincanton",0,"1033","active",2022-09-07 08:10:30.0,"WIN-01","active",2022-04-21 00:00:00.0,Released
+"","","Sberlogistics",0,"","not available","","","active","",In Progress
+"FAIRSENDEN","FAIRSENDEN","Fairsenden",0,"718","active",2022-09-07 08:11:23.0,"FAIRSENDEN","active","",Released
+"CA_POST","CAPSE","Canada Post API",0,"722","active",2024-10-30 11:04:54.0,"CAPSE","active","",Released
+"BRING","BP07","Bring Parcels NO",1,"1034","active",2024-06-11 12:18:10.0,"BP-07","active",2024-06-11 12:18:10.0,Released
+"B2C_EUR","B2C02","B2C Return Your Parcel",0,"1035","active",2023-07-28 09:39:44.0,"B2C-02","active",2022-04-07 00:00:00.0,Released
+"HIVED","HI01","HIVED",0,"1036","active",2024-06-20 09:29:37.0,"HI-01","active",2024-06-20 09:29:37.0,Released
+"GLOB_E","GLOB01","Global E",0,"1037","active",2022-11-18 15:09:41.0,"GLOB-01","active",2022-03-24 00:00:00.0,Released
+"TENDER","TEN01","Tender SRL",0,"1038","active",2022-05-12 00:00:00.0,"TEN-01","active",2022-05-12 00:00:00.0,Released
+"POSTE_IT","POSTIT","Poste Italiane API",0,"720","active",2024-07-30 08:26:29.0,"POSTIT","active","",Released
+"BRING","BP06","Bring Parcels AB",1,"1040","active",2024-10-14 06:35:20.0,"BP-06","active",2024-10-14 06:35:20.0,Released
+"","","DExpress",0,"","not available","","TBP","active","",Open
+"DROPOFF","DRPOFF","DropOff",0,"740","active",2024-08-08 13:36:58.0,"DRPOFF","active","",Released
+"DHL_GF","DHL55","DHL Global Forwarding",0,"1042","active",2025-02-06 11:42:43.0,"DHL-55","active",2025-02-06 11:42:43.0,Released
+"","","Svetlana-K",0,"","not available","","SVK-01","active","",Reviewed
+"7SEN","7SEN","Seven Senders",0,"721","active",2023-03-30 07:37:11.0,"7SEN","active","",Released
+"DPD_EUR","DPD_RO","DPD Romania",0,"727","active",2025-01-23 09:29:38.0,"DPD_RO","active","",Released
+"SPEEDY","SPEEDY","Speedy",0,"732","active",2025-01-29 14:52:32.0,"SPEEDY","active","",Released
+"GLS","GLSUS","GLS US",0,"726","active",2024-08-02 11:29:23.0,"GLSUS","active","",Released
+"STARLINKS","STRL","Starlinks API",0,"724","active",2025-01-08 10:20:21.0,"STRL","active","",Released
+"GLOCALLY","GLOC","Glocally",0,"725","active",2024-08-02 10:54:44.0,"GLOC","active","",Released
+"CHRONOPOST","CHR02","Chronopost Webservice",0,"1043","active",2022-07-21 07:11:38.0,"CHR-02","active",2020-12-21 00:00:00.0,Released
+"CHRONOPOST","CHR01MPM","Chronopost",0,"1044","deprecated",2024-10-31 11:00:10.0,"CHR-01","deprecated",2024-10-31 11:00:10.0,Released
+"","","Gebrüder Weiss D.O.O",0,"","not available","","","active","",Reviewed
+"QUNTM","QNTM","Quantium API",0,"729","active",2024-07-31 11:08:26.0,"QNTM","active","",Released
+"","","Premium Logistik",0,"","not available","","","active","",Open
+"ATLANT","AT01","Atlant",0,"1041","active",2022-09-09 12:27:49.0,"AT-01","active",2022-09-08 00:00:00.0,Released
+"SEUR","SR02","Seur API",0,"1045","active",2022-07-29 12:39:32.0,"SR-02","active",2022-06-30 00:00:00.0,Released
+"XEROE","XER01","Xeroe",0,"1039","active",2022-07-11 07:09:51.0,"XER-01","active",2022-07-14 00:00:00.0,Released
+"D_EXP","DEX01","D Express",1,"1046","active",2024-11-19 14:49:59.0,"DEX-01","active",2024-11-19 14:49:59.0,Released
+"BOD_SCHOL","BS01","Bode Scholten API",0,"1047","deleted","","BS-01","active",2022-10-06 00:00:00.0,Released
+"MEEST","MEEST_API","MEEST API",1,"728","active",2024-08-06 13:50:48.0,"MEEST_API","active","",Released
+"POS_SI","POSTSL","Posta Slovenije",0,"733","active",2024-08-07 14:14:31.0,"POSTSL","active","",Released
+"GEB_WEISS","GW01","Gebrüder Weiss",0,"1048","active",2022-09-07 13:00:31.0,"GW-01","active",2022-08-25 00:00:00.0,Released
+"MNG_KARGO","MNGKR","MNG Kargo",0,"731","active",2024-08-06 13:53:33.0,"MNGKR","active","",Released
+"HEFF","HEF01","Heffernan",0,"1049","active",2023-09-29 09:04:27.0,"HEF-01","active",2023-09-29 09:04:27.0,Released
+"STAMPS","STAMPS_SE","Stamps.com",1,"749","active",2024-08-07 14:21:07.0,"STAMPS_SE","active","",Released
+"HER_UK","EVRIWW","EVRi WorldWide",0,"730","active",2024-07-29 09:33:13.0,"EVRIWW","active","",Released
+"NOV_POS","NOVAP_SE","Nova Poshta API",0,"734","active",2025-01-29 14:26:33.0,"NOVAP_SE","active","",Released
+"DX","DXEXP","DX Express API",0,"741","active",2025-01-30 11:33:43.0,"DXEXP","active","",Released
+"HEPSIJET","HEP01","hepsiJET",0,"1050","active",2022-10-12 00:00:00.0,"HEP-01","active",2021-12-03 00:00:00.0,Released
+"INTEREUR","IE01","InterEuropa",0,"1051","active",2023-08-31 13:07:29.0,"IE-01","active",2022-11-03 00:00:00.0,Released
+"WORA","WORA01","Wora",0,"1052","active",2022-12-05 11:21:28.0,"WORA-01","active",2022-11-17 00:00:00.0,Released
+"ECMS_EX","ECMSSTDEX","ECMS Standard Express",0,"738","active",2024-07-26 13:07:57.0,"ECMSSTDEX","active","",Released
+"NBEX","NBEXP","nBex Express Serbia",0,"735","active",2024-07-04 09:18:19.0,"NBEXP","active","",Released
+"ESW","EWO01","eShop World",0,"1053","active",2024-08-19 10:13:31.0,"EWO-01","active",2024-08-19 10:13:31.0,Released
+"RELAY_TECH","RELAY","Relay",0,"736","active",2025-03-06 09:26:39.0,"RELAY","active","",Released
+"RHENUS","","Rhenus Logistic UK",0,"","not available","","","","",Rejected
+"ASN","ASENDIATOAS","Asendia Shipping - Manifest to Asendia",0,"742","active",2024-07-31 12:09:39.0,"ASENDIATOAS","active","",Released
+"MOND_REL","MON_REL_SE","Mondial Relay DC",1,"737","active",2024-12-13 12:01:45.0,"MON_REL_SE","active","",Released
+"INSTABOX","INS01","Instabox",1,"1054","active",2023-09-26 09:19:56.0,"INS-01","active",2023-09-26 09:19:56.0,Released
+"GEIS","GEISCZ","Geis CZ s.r.o.",0,"743","active",2024-07-31 13:33:19.0,"GEISCZ","active","",Released
+"LINEX","LINEX","Linex",0,"744","active",2024-08-06 13:06:10.0,"LINEX","active","",Released
+"PAND","PANDION","Pandion",0,"745","active",2024-10-09 08:50:43.0,"PANDION","active","",Released
+"COLISSIMO","COLISE","Colissimo_SE",0,"746","active",2024-11-14 10:55:07.0,"COLISE","active","",Released
+"7SEN","7SENAPI","Seven Senders API",0,"747","active",2024-08-12 12:33:56.0,"7SENAPI","active","",Released
+"AN_POST","ANP01","AnPost",2,"1055","active",2023-08-30 09:44:27.0,"ANP-01","active",2019-02-28 00:00:00.0,Released
+"LASERSHIP","LS_SE","Lasership",0,"748","active",2024-08-06 13:03:34.0,"LS_SE","active","",Released
+"FOXPOST","FOXPOSTZRT","FoxPost Zrt",0,"750","active",2024-08-02 10:03:39.0,"FOXPOSTZRT","active","",Released
+"PARXL","PARXL","Parxl",0,"751","active",2024-08-07 10:15:08.0,"PARXL","active","",Released
+"GOBOLT","GOBOLT","GoBolt",0,"752","active",2024-10-09 08:23:41.0,"GOBOLT","active","",Released
+"AMZ_SH","AMZSHPUK","Amazon Shipping UK",0,"755","active",2024-07-23 12:11:35.0,"","not available","",Released
+"PACKFLEET","PACKFL_SE","Packfleet",0,"753","active",2024-08-07 14:10:50.0,"","not available","",Released
+"INPOST_PL","IPPL_SE","InPost PL API",0,"754","active",2024-08-06 12:05:23.0,"IPPL_SE","active","",Released
+"CRANE","CRANE_SE","Crane Worldwide Logistics",0,"756","active",2024-07-25 10:16:02.0,"CRANE_SE","active","",Released
+"YAMATO","YAMATO_API","Yamato API",0,"","active","","YAMATO_API","active","",Rejected
+"FURDECO","FURDECO_SE","Furdeco",1,"758","active",2024-08-29 08:29:21.0,"FURDECO_SE","active",2024-08-29 08:29:21.0,Released
+"GLS","GLS_GERMANY_SE","GLS Germany API",0,"759","active",2024-08-02 11:08:11.0,"GLS_GERMANY_SE","active","",Released
+"TNT_EX","TNT14","TNT Express Connect",0,"1011","active",2024-02-26 11:01:58.0,"TNT-14","active",2024-02-26 11:01:58.0,Released
+"ARAMEX","ARAMEX_SE","Aramex API",0,"760","active",2024-10-14 13:22:09.0,"ARAMEX_SE","active","",Released
+"DHL_EXP","DHLEXPRESSAPI","DHL Express MyDHL API",1,"761","active",2024-07-25 12:30:54.0,"DHLEXPRESSAPI","active","",Released
+"NINJAV","NINJAVAN","Ninja Van",0,"762","active",2024-08-07 12:52:05.0,"NINJAVAN","active","",Released
+"PARCELFORCE","PARCELFORCE_SE","Parcelforce API",0,"763","active",2024-07-04 09:49:17.0,"PARCELFORCE_SE","active","",Released
+"HER_UK","H09","Carrier named Evri Cross Border (UK)",1,"1056","active",2024-10-15 12:27:50.0,"H-09","active",2024-10-15 12:27:50.0,Released
+"DPD_EUR","DPD_PL_SE","DPD Poland API",0,"764","active",2024-07-10 12:00:18.0,"DPD_PL_SE","active","",Released
+"","","",0,"","not available","","","","",Open
+"INPOST_UK","IPUK_SE","InPost UK API",0,"765","active",2024-12-18 10:08:47.0,"IPUK_SE","active","",Released
+"RM","RM_SAPIENT_SE","Royal Mail Sapient API",1,"766","active",2024-10-24 09:21:52.0,"RM_SAPIENT_SE","active","",Released
+"GLOBAL_POST","GLOBALPBYOA","Global Post BYOA",0,"767","active",2024-08-01 07:24:31.0,"GLOBALPBYOA","active","",Released
+"LOTTE_GL","LOTTEGL","Lotte Global Logistics",0,"768","active",2024-08-06 13:08:51.0,"LOTTEGL","active","",Released
+"PACKETA","PACKETA_SE","Packeta",0,"769","active",2024-08-07 13:00:33.0,"PACKETA_SE","active","",Released
+"BRING","BRING_PARCELS_SE","BringParcels",0,"770","active",2024-07-31 13:07:53.0,"BRING_PARCELS_SE","active","",Released
+"","Fast Despatch Logistics","",0,"","not available","","","","",Open
+"FAST_DESPATCH","FAST_DESPATCH_LOGISTICS_SE","Fast Despatch Logistics",0,"771","deprecated",2025-03-12 15:33:14.0,"FAST_DESPATCH_LOGISTICS_SE","deprecated","",Released
+"POSTNORD","POSTNORD_SE","PostNord API",0,"772","active",2024-12-16 13:30:16.0,"POSTNORD_SE","active","",Released
+"DOORDASH","DOORDASHUS","Doordash US",0,"773","active",2025-02-12 09:42:05.0,"DOORDASHUS","active","",Released
+"POST_HASTE","POSTHASTE_SE","Post Haste",0,"774","active",2024-11-07 14:30:56.0,"POSTHASTE_SE","active","",Released
+"DPD_LOC","DPDLOCAL_SE","DPD Local API",0,"","deprecated","","","not available","",Rejected
+"FLEET_OPT","FLEETOPT","FleetOptics Inc.",0,"776","active",2024-11-14 10:19:33.0,"FLEETOPT","active","",Released
+"CHRONOPOST","CHRONOPOST_SE","Chronopost SE",0,"777","active",2025-01-13 12:07:35.0,"CHRONOPOST_SE","active","",Released
+"SKYNETZA","SKYNETZA","Skynet ZA",0,"778","active",2024-06-26 11:07:42.0,"SKYNETZA","active","",Released
+"POCZTEX","POCZTEX_KURIER_SE","Pocztex Kurier",0,"779","active",2024-08-07 10:17:45.0,"POCZTEX_KURIER_SE","active","",Released
+"HERE_WE_GO","HEREWEGO_SE","HereWeGo",1,"780","active",2024-08-06 12:03:00.0,"HEREWEGO_SE","active","",Released
+"DHL_ECOMM","DHL_PARCEL_PL_SE","DHL Parcel Polska",0,"781","active",2024-07-26 07:26:15.0,"DHL_PARCEL_PL_SE","active","",Released
+"GLS","GLS_FRANCE_SE","GLS France API",0,"782","active",2024-10-15 10:53:43.0,"GLS_FRANCE_SE","active","",Released
+"DPD_EUR","DPD_BALTICS_SE","DPD Baltics API",0,"783","active",2024-10-22 12:50:40.0,"DPD_BALTICS_SE","active","",Released
+"FURDECO","","Furdeco 2-Person Home Delivery",0,"","active","","FUR-01","active","",Rejected
+"NOVA_GL","NOVA_GLOBAL_SE","Nova Global API",0,"784","active",2024-07-09 14:09:59.0,"NOVA_GLOBAL_SE","active","",Released
+"TFORCE_LOG","TFORCE_SE","Tforce Logistics",0,"785","active",2024-12-05 14:33:55.0,"TFORCE_SE","active","",Released
+"FAN","FAN","FAN",0,"786","active",2024-11-12 11:26:11.0,"","not available","",Released
+"HER_HES","HES02","Hermes Einrichtungs Service API",0,"1059","active",2024-09-09 09:35:05.0,"HES-02","active",2024-09-09 09:35:05.0,Released
+"PRO_CAR","PROCARRIER","ProCarrier",0,"787","active",2024-06-26 13:20:08.0,"PROCARRIER","active","",Released
+"DHL_PAR_UK","DHL_PARCEL_UK_SE","DHL Parcel United Kingdom",1,"788","active",2025-01-07 13:03:34.0,"DHL_PARCEL_UK_SE","active","",Released
+"NASH","NASH_SE","Nash",0,"789","active","","NASH_SE","active","",Open
+"ECONT","ECONT_SE","Econt",0,"790","active","","ECONT_SE","active","",Open
+"YODEL","YODEL_COLLECT_PLUS_C2C_SE","Yodel Collect Plus C2C",0,"791","active",2024-10-04 10:57:06.0,"YODEL_COLLECT_PLUS_C2C_SE","active","",Released
+"GLS","GLS_SPAIN_SE","GLS Spain API",0,"792","active",2024-08-23 13:19:35.0,"GLS_SPAIN_SE","active","",Released
+"DPD_FR","DPD_FRANCE_SE","DPD France API",0,"793","active",2024-11-05 11:19:57.0,"DPD_FRANCE_SE","active","",Released
+"NEW_ZEALAND_COURIERS","NEW_ZEALAND_COURIERS","New Zealand Couriers",0,"794","active",2024-10-03 13:14:54.0,"NEW_ZEALAND_COURIERS","active","",Released
+"BOX_NOW","BOX_NOW_SE","Box Now",0,"795","active",2024-10-30 10:38:50.0,"","not available","",Released
+"ECOM_EX","ECOM","Ecom Express Limited",0,"796","active",2025-02-18 10:49:16.0,"ECOM","active","",Released
+"SEND_TSP_URG","SENDING_SE","Sending Transporte Urgente API",0,"797","active",2024-10-28 13:43:27.0,"SENDING_SE","active","",Released
+"FEDEX","FEDEX_SE","FedEx REST API",0,"798","active","","FEDEX_SE","active","",Open
+"INPOST_IT","IPIT_SE","InPost IT API",0,"799","active",2024-10-29 15:11:37.0,"IPIT_SE","active","",Released
+"DHL_ECOMM","DHL_ECOM_SE","DHL eCommerce US",0,"800","active",2025-01-07 13:08:12.0,"DHL_ECOM_SE","active","",Released
+"POSTNORD","POSTNORD_INTERNATIONAL_SE","PostNord International API",0,"801","active",2025-01-07 14:47:53.0,"POSTNORD_INTERNATIONAL_SE","active","",Released
+"YODEL","YODEL_SE","Yodel API",0,"802","active",2025-02-12 13:36:25.0,"YODEL_SE","active","",Released
+"ASN","ASENDIAUK_SE","Asendia UK",0,"803","active",2025-01-22 09:30:20.0,"ASENDIAUK_SE","active","",Released
+"MAGYAR_POSTA","MAGYAR_POSTA_SE","Magyar Posta",1,"804","active",2024-12-30 12:41:51.0,"MAGYAR_POSTA_SE","active","",Released
+"UPS","UPS05","UPS World Ease",0,"1060","active","","UPS-05","active","",Open
+"DHL_EXP","DHL-99","DHL Express Break Bulk",0,"","active","","DHL-99","deleted","",Rejected
+"CORREOS_EX","CORREOS_EXPRESS_SE","Correos Express API",0,"805","active","","CORREOS_EXPRESS_SE","active","",Open
+"ARROW_XL","ARROW_XL_SE","Arrow XL API",0,"807","active","","ARROW_XL_SE","active","",Open
+"IVOY","IVOY_MEXICO_SE","iVoy Mexico API",0,"806","active","","IVOY_MEXICO_SE","active","",Open
+"DPD_EUR","DPD_META","DPD Meta API",0,"809","active","","DPD_META","active","",Open
+"DELHIVERY","DELHIVERY","Delhivery India",0,"808","active",2025-03-04 10:01:25.0,"DELHIVERY","active","",Released
+"DHL_EXP","DHL56","DHL Break Bulk",0,"1061","active","","DHL-56","active","",Open
+"TOLL","TOLL_PRIORITY_SE","Toll Priority",0,"810","active","","TOLL_PRIORITY_SE","active","",Open
+"TOLL","TOLL_IPEC_SE","Toll IPEC",0,"811","active","","TOLL_IPEC_SE","active","",Open
+"","BMV_SE","BMV",0,"812","active","","BMV_SE","active","",Open
+"","TIPSA_SE","Tipsa",0,"813","active","","TIPSA_SE","active","",Open

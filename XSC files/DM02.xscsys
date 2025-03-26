@@ -1,0 +1,2645 @@
+<?xml version="1.0"?>
+<XSCExport datetime="2025-03-20T09:45:09.7434131+01:00" version="2.25.11.63773" checksum="#3CF0A2D6050835EE30A209775659A740" deployment="86739948-2715-4c61-adc0-8c18517dd4a2">
+  <BusinessUnits>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>123</Name>
+      <Description />
+      <Active>false</Active>
+      <Identifier>3f03023a-506f-4173-bd84-ec8d278792dc</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>AEX01</Name>
+      <Description />
+      <Active>false</Active>
+      <Identifier>2956e53c-69eb-4843-9bd6-6f2ad7a6ec5b</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>AGS01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>f032c595-d60e-4248-9e49-d0950a9c3a93</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>true</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>AIR01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>2f39dea7-5703-4c1a-a9f9-82a598532803</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>ANEX01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>a551b4d2-5430-4126-85d7-17b120188bc9</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>B2C01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>8401c44c-9bce-4b3d-aab7-1fefb089f3f1</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>BUD01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>4c4403a8-ebc7-46b1-8bca-3ad4e749391e</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>CAE01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>3691cd9d-57d0-4541-aa08-e12079b3c081</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>CAP01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>530c4d01-5570-485f-b7f8-8994f93a4af2</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>CEX01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>92e566fa-d465-4502-9e19-4c19ea22082f</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>CHR01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>8a866ca4-d388-43a0-9685-02fdc08f08d7</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>COL01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>019a0175-e45f-40e8-9609-8673861b0eb9</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>COL01_VF</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>8f775539-f592-4111-b9cd-8ff31bd8d5bd</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>COLL801</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>ffe06ec7-b213-4974-820b-4f7f2c4b18c7</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>COP01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>0216fa38-01a9-4938-aa96-f274d3bbd265</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>CPR02</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>908aab8b-90f6-4e6b-9ecf-24ee15279134</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>CTT02</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>b26a74cb-d2b9-4dd2-a420-6f5bba67fbd7</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>DHL15</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>edf56d92-23dd-432b-87d5-fbde704b9ff9</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>DHL15_Amway</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>c523fd0e-9ab4-4bb4-a255-75cadb5fc9dd</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>DHL52</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>6a8d2821-50f0-4402-937f-4fcdf7f915ba</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>DL01</Name>
+      <Description>Direct Link</Description>
+      <Active>true</Active>
+      <Identifier>8ae06040-a3ff-4d12-8f2b-4029a9f2e860</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>DO01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>45414d96-3f09-4444-91cb-a1690f9c06f6</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>DPD10</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>e6e82e99-6678-4c96-9402-67ae17794b4f</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>DPD10_Amway</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>2a995d88-1216-44a4-b809-f9c113a92e9a</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>EWO01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>5fb909bd-865a-4cd7-a241-cd10b46783e3</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>F01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>a1237538-5dbd-4fb3-8e6f-755e4380042d</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>F01_1</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>b4b1f808-b20f-46d0-9063-24a258dd6338</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>F01_Amway</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>90ce028d-f007-4442-ac1d-281603c4c321</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>F01_VF</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>469c07e1-53fa-463a-b6f8-f61321044e09</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>FK01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>ac9f6e40-9762-4cb2-b017-452013475265</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>G03</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>04f3ca48-c544-458b-8840-b7148da799f9</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>G04</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>3fb8a041-a771-4962-8443-700f4a932545</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>GEIS02</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>eb928102-9bf4-408d-a237-0342eeefb63c</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>GEO04</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>8e5c477d-5191-44c3-93ed-722b612dc8a5</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>GEO05</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>7cdaaa19-7121-40a5-8bc3-2cadf6c45c72</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>GLS05</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>9bfbb2d6-d603-469d-ab4a-40b701c49423</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>GLS08</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>a74279a3-6b9c-4f48-9b69-1751aad476e1</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>GLS09</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>8dc85280-e33f-4b4a-b6a7-ab10f9473004</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>HDNL01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>ee26cda1-0172-40b6-bb0c-0404fe68113b</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>IB01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>3fda3bab-4500-483b-833d-7f87111cc75c</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>IP02</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>4a592707-1d29-446c-996a-ca8e63252618</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>IP04</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>5b6fb10b-17c4-4551-9891-f0414e34eb52</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>MES01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>3b1123f5-2ec4-4353-bff5-dee737d56f25</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>MHI01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>58a6e767-9b44-42b3-b5e7-1d46f3771b91</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>MM01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>85a648f1-74b8-4e41-8937-6f0ee6d63153</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>MR02</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>fd76204d-b8fc-477b-8bc3-512b29424ab4</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>PC01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>d3f17717-edf8-40d6-96bb-9dfd92f4ee73</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>PL03</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>7ce5fe83-cef0-482f-8a5a-34d3ab48f025</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>PM01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>bc460af3-27b7-465a-bbf0-8cbad14407c9</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>PML01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>2ccb26c2-5bbe-460e-8cd3-98af735ceaee</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>PND01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>775a13e2-1035-4c18-a2ca-b364bd83b7e9</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>POS01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>ba5f7b02-452d-4430-8128-93b37373dd04</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>SCH05</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>9dbdc38d-1f76-477e-8e55-1e842b6bcae5</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>SG01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>9fdf8545-84e3-4c92-9b08-a56501faf6ca</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>SLV01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>aece50f8-3921-4932-a51b-468b50ce24cb</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>SR01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>83a3a8fd-f534-4da3-bc55-4a49516edc08</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>TAX01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>58db237f-6025-4724-b13c-90c06830c224</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>TNT06</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>ff92cd8f-822f-4cd4-bc74-5dd56b061dfd</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>TOLL01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>2409a034-761a-4a7a-8777-6ad9278a15ae</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>UKM03</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>00cf77dc-4173-4883-8145-1ea17c50171e</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>UL01</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>67ce9937-666c-4d48-931b-286952dfc163</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>USPS02</Name>
+      <Description />
+      <Active>true</Active>
+      <Identifier>1acba22c-e27b-4d0b-bea4-3805732303bd</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>XSC</Name>
+      <Description>Default unit used by Shipping Center</Description>
+      <Active>false</Active>
+      <Identifier>e6b11db5-4fdc-4330-a56f-f7cf0751d44b</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+    <BusinessUnit ValidFrom="2.4.13.220">
+      <Name>ZED01</Name>
+      <Description />
+      <Active>false</Active>
+      <Identifier>66250a9e-5bc4-4a25-8b4d-85ee4c62aad8</Identifier>
+      <Addresses />
+      <BusinessParameters />
+      <ThirdPartySystems />
+      <SharedNumberRanges />
+      <Printing>
+        <ServerPrinters />
+        <PaperForms />
+        <Labels />
+      </Printing>
+      <Contracts />
+      <ShipmentDefinitions />
+      <BusinessLogics />
+      <NotificationTemplates>
+        <DBTemplates />
+        <EmailTemplates />
+      </NotificationTemplates>
+      <Triggers />
+      <ImportExportDefinitions>
+        <ImportDefinitions />
+        <ExportDefinitions />
+      </ImportExportDefinitions>
+      <Users />
+      <SMRInstanceConfiguration ValidFrom="2.16.38.0001">
+        <SortOrder />
+        <GlobalPerformCarrierValidation>None</GlobalPerformCarrierValidation>
+        <GlobalPerformRoutingValidation>None</GlobalPerformRoutingValidation>
+        <GlobalPerformTransitTimeCalculation>None</GlobalPerformTransitTimeCalculation>
+        <GlobalPerformServicePointValidation>None</GlobalPerformServicePointValidation>
+        <AllocateBy>DeliveryTime</AllocateBy>
+        <DeliveryDatesType>LatestDispatch</DeliveryDatesType>
+        <RetrieveProductInformation>false</RetrieveProductInformation>
+      </SMRInstanceConfiguration>
+      <ContainerTemplates />
+      <WarmUp>false</WarmUp>
+    </BusinessUnit>
+  </BusinessUnits>
+  <GlobalNumberRanges />
+  <GlobalTriggers />
+  <Roles />
+  <GlobalThirdPartySystems />
+  <GlobalSystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>EnableParcelReallocationInSystem</SettingKey>
+      <SettingValue>False</SettingValue>
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>ExternalMPMTraceURL</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>AllowNewDeleteImportedData</SettingKey>
+      <SettingValue>False</SettingValue>
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>GlobalURIHostInSystem</SettingKey>
+      <SettingValue>https://global.intranet.xlogics.eu/</SettingValue>
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>GlobalDebugInfoEnabledInSystem</SettingKey>
+      <SettingValue>False</SettingValue>
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>GlobalTechnicalDetailsEnabledInSystem</SettingKey>
+      <SettingValue>True</SettingValue>
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRTransitTimesConfigurationName</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRGeographiesConfigurationName</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRRetailerCapacityServiceConfigName</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRParalelizedName</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRSaveLogData</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRLogDataPath</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRParallelizedMode</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>SMRParallelizedThreadCount</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>GlobalWarmUp</SettingKey>
+      <SettingValue />
+    </SystemSettings>
+    <SystemSettings ValidFrom="2.4.13.220">
+      <SettingKey>GlobalMetaBusMessageGenerationEnabled</SettingKey>
+      <SettingValue>False</SettingValue>
+    </SystemSettings>
+  </GlobalSystemSettings>
+  <SMRGlobalConfiguration ValidFrom="2.4.13.220">
+    <SMRTransitTimesConfigurationName />
+    <SMRGeographiesConfigurationName />
+    <SMRRetailerCapacityServiceConfigurationName />
+    <SMRParalelized>false</SMRParalelized>
+    <SMRSaveLogData>false</SMRSaveLogData>
+    <SMRLogDataPath />
+    <SmrParallelizedMode />
+    <SmrParallelizedThreadCount>4</SmrParallelizedThreadCount>
+  </SMRGlobalConfiguration>
+</XSCExport>
